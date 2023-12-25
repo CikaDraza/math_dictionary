@@ -1,0 +1,192 @@
+{
+  "power": [
+      {
+          "formula": "x",
+          "exponent": "n",
+          "Српски": "",
+          "Srpski": "",
+          "English": ""
+      },
+      {
+          "formula": "x",
+          "exponent": "",
+          "Српски": "основа, база",
+          "Srpski": "osnova, baza",
+          "English": "base"
+      },
+      {
+          "formula": "n",
+          "exponent": "",
+          "Српски": "експонент, степен",
+          "Srpski": "eksponent, stepen",
+          "English": "exponent"
+      },
+      {
+        "formula": "",
+        "exponent": "",
+        "Српски": "степеновати, потенцирати",
+        "Srpski": "stepenovati, potencirati",
+        "English": "rise to the power"
+      }
+  ],
+  "roots": [
+      {
+          "Кореновање": "други корен из",
+          "Korenovanje": "drugi koren iz",
+          "Taking the root": "second root of"
+      },
+      {
+          "Кореновање": "квадратни корен из",
+          "Korenovanje": "kvadratni koren iz",
+          "Taking the root": "square root of "
+      },
+      {
+          "Кореновање": "трећи корен из",
+          "Korenovanje": "treći koren iz ",
+          "Taking the root": "third root of"
+      },
+      {
+          "Кореновање": "кубни корен из",
+          "Korenovanje": "kubni koren iz",
+          "Taking the root": "cubed root of "
+      },
+      {
+          "Кореновање": "четврти корен из",
+          "Korenovanje": "četvrti koren iz",
+          "Taking the root": "fourth root of  "
+      },
+      {
+          "Кореновање": "пети корен из",
+          "Korenovanje": "peti koren iz",
+          "Taking the root": "fifth power of  "
+      },
+      {
+          "Кореновање": "n-ти корен из",
+          "Korenovanje": "n-ti koren iz",
+          "Taking the root": "n-th root of"
+      },
+      {
+          "Кореновање": "(редни број) корен из",
+          "Korenovanje": "(redni broj) koren iz",
+          "Taking the root": "(ordinal number) power of "
+      }
+  ],
+  "roots_example": [
+      {
+          "formula": "root",
+          "root_value": "",
+          "Српски": "корен, знак за корен",
+          "Srpski": "koren, znak za koren",
+          "English": "radical, radical sign"
+      },
+      {
+          "formula": "",
+          "root_value": "x",
+          "Српски": "поткорена величина",
+          "Srpski": "potkorena veličina",
+          "English": "radicand"
+      },
+      {
+          "formula": "",
+          "root_value": "",
+          "Српски": "кореновати",
+          "Srpski": "korenovati",
+          "English": "take the root"
+      },
+      {
+          "formula": "",
+          "root_value": "",
+          "Српски": "кореновање",
+          "Srpski": "korenovanje",
+          "English": "taking the root"
+      }
+  ],
+  "power_root_example": [
+      {
+          "formula": "y",
+          "power": "3",
+          "Пример": "трећи корен из y",
+          "Primer": "treći koren iz y",
+          "Example": "third root of y"
+      },
+      {
+          "formula": "",
+          "power": "",
+          "Пример": "кубни корен из y",
+          "Primer": "kubni koren iz y",
+          "Example": "cubed root of y"
+      },
+      {
+          "formula": "z",
+          "power": "7",
+          "Пример": "седми корен из z",
+          "Primer": "sedmi koren iz z",
+          "Example": "seventh root of z"
+      }
+  ],
+  "power_example": [
+      {
+          "formula": "x",
+          "exponent": "2",
+          "Пример": "x на квадрат",
+          "Primer": "x na kvadrat",
+          "Example": "x squared"
+      },
+      {
+          "formula": "",
+          "exponent": "",
+          "Пример": "x на други степен",
+          "Primer": "x na drugi stepen",
+          "Example": "x to the second (power), x to the power of two"
+      },
+      {
+          "formula": "b",
+          "exponent": "9",
+          "Пример": "b на девети степен",
+          "Primer": "a na deveti stepen",
+          "Example": "b to the nineth (power), b to the power of nine"
+      }
+  ],
+  "power_potencional": [
+      {
+          "Степеновање, потенцирање": "на квадрат",
+          "Stepenovanje, potenciranje": "na kvadrat ",
+          "Rising to the power": "squared "
+      },
+      {
+          "Степеновање, потенцирање": "на други степен",
+          "Stepenovanje, potenciranje": "na drugi stepen ",
+          "Rising to the power": "to the second (power), to the power of two "
+      },
+      {
+          "Степеновање, потенцирање": "на куб",
+          "Stepenovanje, potenciranje": "na kub ",
+          "Rising to the power": "cubed  "
+      },
+      {
+          "Степеновање, потенцирање": "на трећи степен",
+          "Stepenovanje, potenciranje": "na treći stepen ",
+          "Rising to the power": "to the third (power), to the power of three"
+      },
+      {
+          "Степеновање, потенцирање": "на четврти степен",
+          "Stepenovanje, potenciranje": "na četvrti stepen ",
+          "Rising to the power": "to the fourth (power), to the power of four "
+      },
+      {
+          "Степеновање, потенцирање": "на пети степен",
+          "Stepenovanje, potenciranje": "na peti stepen ",
+          "Rising to the power": "to the fifth (power), to the power of five   "
+      },
+      {
+          "Степеновање, потенцирање": "на n-ти степен",
+          "Stepenovanje, potenciranje": "na n-ti stepen",
+          "Rising to the power": "to the n-th power, to the power of n"
+      },
+      {
+          "Степеновање, потенцирање": "на (редни број) степен",
+          "Stepenovanje, potenciranje": "na (redni broj) stepen",
+          "Rising to the power": "to the (ordinal number) power, to the power of (cardinal number)"
+      }
+  ]
+}

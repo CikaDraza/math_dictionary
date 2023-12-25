@@ -1,0 +1,279 @@
+{
+  "ordinals": [
+      {
+          "id": "1.",
+          "Српски": "први",
+          "Srpski": "prvi",
+          "English": "first"
+      },
+      {
+          "id": "2.",
+          "Српски": "други",
+          "Srpski": "drugi",
+          "English": "second"
+      },
+      {
+          "id": "3.",
+          "Српски": "трећи",
+          "Srpski": "treći",
+          "English": "third"
+      },
+      {
+          "id": "4.",
+          "Српски": "четврти",
+          "Srpski": "četvrti",
+          "English": "fourth"
+      },
+      {
+          "id": "5.",
+          "Српски": "пети",
+          "Srpski": "peti",
+          "English": "fifth"
+      },
+      {
+          "id": "6.",
+          "Српски": "шести",
+          "Srpski": "šesti",
+          "English": "sixth"
+      },
+      {
+          "id": "7.",
+          "Српски": "седми",
+          "Srpski": "sedmi",
+          "English": "seventh"
+      },
+      {
+          "id": "8.",
+          "Српски": "осми",
+          "Srpski": "osmi",
+          "English": "eighth"
+      },
+      {
+          "id": "9.",
+          "Српски": "девети",
+          "Srpski": "deveti",
+          "English": "ninth"
+      },
+      {
+          "id": "10.",
+          "Српски": "десети",
+          "Srpski": "deseti",
+          "English": "tenth"
+      },
+      {
+          "id": "11.",
+          "Српски": "једанаести",
+          "Srpski": "jedanaesti",
+          "English": "eleventh"
+      },
+      {
+          "id": "12.",
+          "Српски": "дванаести",
+          "Srpski": "dvanaesti",
+          "English": "twelfth"
+      },
+      {
+          "id": "13.",
+          "Српски": "тринаести",
+          "Srpski": "trinaesti",
+          "English": "thirteenth"
+      },
+      {
+          "id": "14.",
+          "Српски": "четрнаести",
+          "Srpski": "četrnaesti",
+          "English": "fourteenth"
+      },
+      {
+          "id": "15.",
+          "Српски": "петнаести",
+          "Srpski": "petnaesti",
+          "English": "fifteenth"
+      },
+      {
+          "id": "16.",
+          "Српски": "шеснаести",
+          "Srpski": "šesnaesti",
+          "English": "sixteenth"
+      },
+      {
+          "id": "17.",
+          "Српски": "седамнаести",
+          "Srpski": "sedamnaesti",
+          "English": "seventeenth"
+      },
+      {
+          "id": "18.",
+          "Српски": "осамнаести",
+          "Srpski": "osamnaesti",
+          "English": "eighteenth"
+      },
+      {
+          "id": "19.",
+          "Српски": "деветнаести",
+          "Srpski": "devetnaesti",
+          "English": "nineteenth"
+      },
+      {
+          "id": "20.",
+          "Српски": "двадесети",
+          "Srpski": "dvadeseti",
+          "English": "twentieth"
+      },
+      {
+          "id": "21.",
+          "Српски": "двадесет први",
+          "Srpski": "dvadeset prvi",
+          "English": "twenty-first"
+      },
+      {
+          "id": "22.",
+          "Српски": "двадесет други",
+          "Srpski": "dvadeset drugi",
+          "English": "twenty-second"
+      },
+      {
+          "id": "23.",
+          "Српски": "двадесет трећи",
+          "Srpski": "dvadeset treći",
+          "English": "twenty-third"
+      },
+      {
+          "id": "24.",
+          "Српски": "двадесет четврти",
+          "Srpski": "dvadeset četvrti",
+          "English": "twenty-fourth"
+      },
+      {
+          "id": "25.",
+          "Српски": "двадесет пети",
+          "Srpski": "dvadeset peti",
+          "English": "twenty-fifth"
+      },
+      {
+          "id": "26.",
+          "Српски": "двадесет шести",
+          "Srpski": "dvadeset šesti",
+          "English": "twenty-sixth"
+      },
+      {
+          "id": "27.",
+          "Српски": "двадесет седми",
+          "Srpski": "dvadeset sedmi",
+          "English": "twenty-seventh"
+      },
+      {
+          "id": "28.",
+          "Српски": "двадесет осми",
+          "Srpski": "dvadeset osmi",
+          "English": "twenty-eighth"
+      },
+      {
+          "id": "29.",
+          "Српски": "двадесет девети",
+          "Srpski": "dvadeset deveti",
+          "English": "twenty-ninth"
+      },
+      {
+          "id": "30.",
+          "Српски": "тридесети",
+          "Srpski": "trideseti",
+          "English": "thirtieth"
+      },
+      {
+          "id": "31.",
+          "Српски": "тридесет први",
+          "Srpski": "trideset prvi",
+          "English": "thirty-first"
+      },
+      {
+          "id": "32.",
+          "Српски": "тридесет други",
+          "Srpski": "trideset drugi",
+          "English": "thirty-second"
+      },
+      {
+          "id": "40.",
+          "Српски": "четрдесети",
+          "Srpski": "četrdeseti",
+          "English": "fortieth"
+      },
+      {
+          "id": "50.",
+          "Српски": "педесети",
+          "Srpski": "pedeseti",
+          "English": "fiftieth"
+      },
+      {
+          "id": "60.",
+          "Српски": "шездесети",
+          "Srpski": "šezdeseti",
+          "English": "sixtieth"
+      },
+      {
+          "id": "70.",
+          "Српски": "седамдесети",
+          "Srpski": "sedamdeseti",
+          "English": "seventieth"
+      },
+      {
+          "id": "80.",
+          "Српски": "осамдесети",
+          "Srpski": "osamdeseti",
+          "English": "eightieth"
+      },
+      {
+          "id": "90.",
+          "Српски": "деведесети",
+          "Srpski": "devedeseti",
+          "English": "ninetieth"
+      },
+      {
+          "id": "100.",
+          "Српски": "стоти",
+          "Srpski": "stoti",
+          "English": "hundredth"
+      },
+      {
+          "id": "1000.",
+          "Српски": "хиљадити",
+          "Srpski": "hiljaditi",
+          "English": "thousandth"
+      },
+      {
+          "id": "10000.",
+          "Српски": "десетохиљадити",
+          "Srpski": "desetohiljaditi",
+          "English": "ten-thousandth"
+      },
+      {
+          "id": "1000000.",
+          "Српски": "милионити",
+          "Srpski": "milioniti",
+          "English": "millionth"
+      },
+      {
+          "Српски": "Пример",
+          "Srpski": "Primer",
+          "English": "Example"
+      },
+      {
+          "id": "101.",
+          "Српски": "сто први",
+          "Srpski": "sto prvi",
+          "English": "hundred and first"
+      },
+      {
+          "id": "212.",
+          "Српски": "двеста дванаести",
+          "Srpski": "dvesta dvanaesti",
+          "English": "two hundred and twelfth"
+      },
+      {
+          "id": "3764.",
+          "Српски": "три хиљаде седамсто шесдесет четврти",
+          "Srpski": "tri hiljade sedamsto šesdeset četvrti",
+          "English": "tree thousand seven hundred sixty-fourth "
+      }
+  ]
+}

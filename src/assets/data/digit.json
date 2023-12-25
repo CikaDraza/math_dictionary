@@ -1,0 +1,147 @@
+{
+  "digits": [
+  {
+      "id": "1",
+      " Mesna vrednost": "Milijarde",
+      " Месна вредност": "Милијарде",
+      " Place value": "Bilions"
+  },
+  {
+      "id": "2",
+      " Mesna vrednost": "Stotine miliona",
+      " Месна вредност": "Стотине милиона",
+      " Place value": "Hundred-milions"
+  },
+  {
+      "id": "3",
+      " Mesna vrednost": "Desetice miliona",
+      " Месна вредност": "Десетице милиона",
+      " Place value": "Ten-milions"
+  },
+  {
+      "id": "4",
+      " Mesna vrednost": "Milioni",
+      " Месна вредност": "Милиони",
+      " Place value": "Milions"
+  },
+  {
+      "id": "5",
+      " Mesna vrednost": "Stotine hiljada",
+      " Месна вредност": "Стотине хиљада",
+      " Place value": "Hundred-thousands"
+  },
+  {
+      "id": "6",
+      " Mesna vrednost": "Desetice hiljada",
+      " Месна вредност": "Десетице хиљада",
+      " Place value": "Ten-thousands"
+  },
+  {
+      "id": "7",
+      " Mesna vrednost": "Hiljade",
+      " Месна вредност": "Хиљаде",
+      " Place value": "Thousands"
+  },
+  {
+      "id": "8",
+      " Mesna vrednost": "Stotine",
+      " Месна вредност": "Стотине",
+      " Place value": "Hundreds"
+  },
+  {
+      "id": "9",
+      " Mesna vrednost": "Desetice",
+      " Месна вредност": "Десетице",
+      " Place value": "Tens"
+  },
+  {
+      "id": "10",
+      " Mesna vrednost": "Jedinice",
+      " Месна вредност": "Јединице",
+      " Place value": "Ones"
+  },
+  {
+      "id": "11",
+      " Mesna vrednost": "Decimalni zarez (tačka)",
+      " Месна вредност": "Децимални зарез (тачка)",
+      " Place value": "Decimal point"
+  },
+  {
+      "id": "12",
+      " Mesna vrednost": "Desetih",
+      " Месна вредност": "Десетих",
+      " Place value": "Tenths"
+  },
+  {
+      "id": "13",
+      " Mesna vrednost": "Stotih",
+      " Месна вредност": "Стотих",
+      " Place value": "Hundresths"
+  },
+  {
+      "id": "14",
+      " Mesna vrednost": "Hiljaditih",
+      " Месна вредност": "Хиљадитих",
+      " Place value": "Thousandths"
+  },
+  {
+      "id": "15",
+      " Mesna vrednost": "Desetohiljaditih",
+      " Месна вредност": "Десетохиљадитих",
+      " Place value": "Teh-thousandths"
+  },
+  {
+      "id": "16",
+      " Mesna vrednost": "Stohiljaditih",
+      " Месна вредност": "Стохиљадитих",
+      " Place value": "Hundred-thousandths"
+  },
+  {
+      "id": "17",
+      " Mesna vrednost": "Milionitih",
+      " Месна вредност": "Милионитих",
+      " Place value": "Milionths"
+  },
+  {
+      "id": "18",
+      " Mesna vrednost": "Desetomilionitih",
+      " Месна вредност": "Десетомилионитих",
+      " Place value": "Ten-milionths"
+  },
+  {
+      "id": "19",
+      " Mesna vrednost": "Stomilionitih",
+      " Месна вредност": "Стомилионитих",
+      " Place value": "Hundred-milionths"
+  },
+  {
+      "id": "20",
+      " Mesna vrednost": "Milijarditih",
+      " Месна вредност": "Милијардитих",
+      " Place value": "Bilionths"
+  }
+],
+"example": [
+  {
+      "id": "1",
+      "num": "4,567,9386",
+      "Srpski_cir": "4 хиљаде 5 стотина 6 десетица 7 јединица 9 десетих 3 стотих 8 хиљадитих 6 десетохиљадитих",
+      "Srpski": "4 hiljade 5 stotina 6 desetica 7 jedinica 9 desetih 3 stotih 8 hiljaditih 6 desetohiljaditih",
+      "English": "4 thousands 5 hundreds 6 tens 7 ones 9 tenths 3 hundredths 8 thousandths 6 ten-thousandths"
+  },
+  {
+      "id": "3",
+      "num": "4567.9386",
+      "Srpski_cir": "четири хиљаде петсто шесдесет седам и девет хиљада триста осамдесет шест десетохиљадитих четири хиљаде петсто шесдесет седам зарез девет три осам шест",
+      "Srpski": "četiri hiljade petsto šesdeset sedam i devet hiljada trista osamdeset šest desetohiljaditih četiri hiljade petsto šesdeset sedam zarez devet tri osam šest",
+      "English": "four thousand five hundred sixty-seven point /and nine thousand three hundred eighty-six ten-thousandths four thousand five hundred sixty-seven point nine three eight six"
+  },
+  {
+      "id": "5",
+      "num": "0.5866",
+      "Srpski_cir": "нула зарез пет осам шест шест",
+      "Srpski": "nula zarez pet osam šest šest",
+      "English": "point five eight six six (ne čitamo nulu / we don’t read zero)"
+  }
+]
+}

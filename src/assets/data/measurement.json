@@ -1,0 +1,493 @@
+{
+  "measurement": [
+    {
+      "example": [
+          {
+              "ID": "1",
+              "symbol": "",
+              "Српски": "јединица",
+              "Srpski": "jedinica",
+              "English": "unit"
+          },
+          {
+              "ID": "2",
+              "symbol": "2",
+              "Српски": "квадратна јединица",
+              "Srpski": "kvadratna jedinica",
+              "English": "unit squared"
+          },
+          {
+              "ID": "3",
+              "symbol": "3",
+              "Српски": "кубна јединица",
+              "Srpski": "kubna jedinica",
+              "English": "unit cubed"
+          }
+      ]
+    },
+    {
+      "americka_tecnost": [
+        {
+            "Oznaka / Symbol": "gal",
+            "Američka jedinica mere za tečnost": "galon",
+            "Америчка јединица мере за течност": "галон",
+            "Customary units of capacity": "gallon"
+        },
+        {
+            "Oznaka / Symbol": "qt",
+            "Američka jedinica mere za tečnost": "kvart",
+            "Америчка јединица мере за течност": "кварт",
+            "Customary units of capacity": "quart"
+        },
+        {
+            "Oznaka / Symbol": "cu",
+            "Američka jedinica mere za tečnost": "šolja",
+            "Америчка јединица мере за течност": "шоља",
+            "Customary units of capacity": "cup"
+        },
+        {
+            "Oznaka / Symbol": "pt",
+            "Američka jedinica mere za tečnost": "pinta",
+            "Америчка јединица мере за течност": "пинта",
+            "Customary units of capacity": "pint"
+        },
+        {
+            "Oznaka / Symbol": "gi",
+            "Američka jedinica mere za tečnost": "gil",
+            "Америчка јединица мере за течност": "гил",
+            "Customary units of capacity": "gill"
+        },
+        {
+            "Oznaka / Symbol": "oz",
+            "Američka jedinica mere za tečnost": "funta",
+            "Америчка јединица мере за течност": "фунта",
+            "Customary units of capacity": "ounce"
+        },
+        {
+            "Oznaka / Symbol": "tbs",
+            "Američka jedinica mere za tečnost": "supena kašika",
+            "Америчка јединица мере за течност": "супена кашика",
+            "Customary units of capacity": "tablespoon"
+        },
+        {
+            "Oznaka / Symbol": "tbsp",
+            "Američka jedinica mere za tečnost": "kašičica za čaj",
+            "Америчка јединица мере за течност": "кашичица за чај",
+            "Customary units of capacity": "teaspoon"
+        }
+      ]
+    },
+    {
+      "americka_povrsina": [
+        {
+            "Oznaka / Symbol": "in",
+            "Američka jedinica mere za površinu": "kvadratni inč",
+            "Америчка јединица мере за површину": "квадратни инч",
+            "Customary units of area": "inch squared"
+        },
+        {
+            "Oznaka / Symbol": "ft",
+            "Američka jedinica mere za površinu": "kvadratna stopa",
+            "Америчка јединица мере за површину": "квадратна стопа",
+            "Customary units of area": "foot squared, pl. feet squared"
+        },
+        {
+            "Oznaka / Symbol": "rd",
+            "Američka jedinica mere za površinu": "kvadratni rod",
+            "Америчка јединица мере за површину": "квадратни род",
+            "Customary units of area": "rod squared"
+        },
+        {
+            "Oznaka / Symbol": "yd",
+            "Američka jedinica mere za površinu": "kvadratni jard",
+            "Америчка јединица мере за површину": "квадратни јард",
+            "Customary units of area": "yard squared"
+        },
+        {
+            "Oznaka / Symbol": "mi",
+            "Američka jedinica mere za površinu": "kvadratna milja",
+            "Америчка јединица мере за површину": "квадратна миља",
+            "Customary units of area": "mile squared"
+        }
+      ]
+    },
+    {
+
+      "americka_zapremina": [
+        {
+            "Oznaka / Symbol": "in",
+            "Američka jedinica mere za zapreminu": "kubni inč",
+            "Америчка јединица мере за запремину": "кубни инч",
+            "Customary units of capacity": "inch cubed"
+        },
+        {
+            "Oznaka / Symbol": "ft",
+            "Američka jedinica mere za zapreminu": "kubna stopa",
+            "Америчка јединица мере за запремину": "кубна стопа",
+            "Customary units of capacity": "foot cubed, pl. feet cubed"
+        },
+        {
+            "Oznaka / Symbol": "rd",
+            "Američka jedinica mere za zapreminu": "kubni rod",
+            "Америчка јединица мере за запремину": "кубни род",
+            "Customary units of capacity": "rod cubed"
+        },
+        {
+            "Oznaka / Symbol": "yd",
+            "Američka jedinica mere za zapreminu": "kubni jard",
+            "Америчка јединица мере за запремину": "кубни јард",
+            "Customary units of capacity": "yard cubed"
+        },
+        {
+            "Oznaka / Symbol": "mi",
+            "Američka jedinica mere za zapreminu": "kubna milja",
+            "Америчка јединица мере за запремину": "кубна миља",
+            "Customary units of capacity": "mile cubed"
+        }
+      ]
+    },
+    {
+      "americka_duzina": [
+        {
+            "Oznaka / Symbol": "in",
+            "Američka jedinica mere za dužinu": "inč",
+            "Америчка јединица мере за дужину": "инч",
+            "Customary units of length": "inch"
+        },
+        {
+            "Oznaka / Symbol": "ft",
+            "Američka jedinica mere za dužinu": "stopa",
+            "Америчка јединица мере за дужину": "стопа",
+            "Customary units of length": "foot, pl. feet"
+        },
+        {
+            "Oznaka / Symbol": "rd",
+            "Američka jedinica mere za dužinu": "rod",
+            "Америчка јединица мере за дужину": "род",
+            "Customary units of length": "rod"
+        },
+        {
+            "Oznaka / Symbol": "yd",
+            "Američka jedinica mere za dužinu": "jard",
+            "Америчка јединица мере за дужину": "јард",
+            "Customary units of length": "yard"
+        },
+        {
+            "Oznaka / Symbol": "mi",
+            "Američka jedinica mere za dužinu": "milja",
+            "Америчка јединица мере за дужину": "миља",
+            "Customary units of length": "mile"
+        }
+      ]
+    },
+    {
+      "metricki_vreme": [
+        {
+            "Oznaka / Symbol": "s / s  ",
+            "Jedinica mere za vreme": "sekund",
+            "Јединица мере за време": "секунд",
+            "Units of time": "second"
+        },
+        {
+            "Oznaka / Symbol": "min / min",
+            "Jedinica mere za vreme": "minut",
+            "Јединица мере за време": "минут",
+            "Units of time": "minute"
+        },
+        {
+            "Oznaka / Symbol": "h / h",
+            "Jedinica mere za vreme": "sat, čas",
+            "Јединица мере за време": "сат, час",
+            "Units of time": "hour"
+        },
+        {
+            "Oznaka / Symbol": "d / d",
+            "Jedinica mere za vreme": "dan",
+            "Јединица мере за време": "дан",
+            "Units of time": "day"
+        },
+        {
+            "Oznaka / Symbol": "w",
+            "Jedinica mere za vreme": "nedelje, sedmica",
+            "Јединица мере за време": "недеље, седмица",
+            "Units of time": "week"
+        },
+        {
+            "Oznaka / Symbol": "m / mo",
+            "Jedinica mere za vreme": "mesec",
+            "Јединица мере за време": "месец",
+            "Units of time": "month"
+        },
+        {
+            "Oznaka / Symbol": "god / yr",
+            "Jedinica mere za vreme": "godina",
+            "Јединица мере за време": "година",
+            "Units of time": "year"
+        },
+        {
+            "Oznaka / Symbol": "d / d",
+            "Jedinica mere za vreme": "dekada",
+            "Јединица мере за време": "декада",
+            "Units of time": "decade"
+        },
+        {
+            "Oznaka / Symbol": "v / c",
+            "Jedinica mere za vreme": "vek ",
+            "Јединица мере за време": "век ",
+            "Units of time": "century"
+        },
+        {
+            "Oznaka / Symbol": "M",
+            "Jedinica mere za vreme": "milenijum",
+            "Јединица мере за време": "миленијум ",
+            "Units of time": "millennium (pl. millennia) "
+        }
+      ]
+    },
+    {
+
+      "metricki_tecnost": [
+        {
+            "Oznaka / Symbol": "mi / ml",
+            "Metrička jedinica mere za zapreminu tečnosti": "mililitar",
+            "Метричка јединица мере за запремину течности": "милилитар",
+            "Metric units of capacity": "milliliter"
+        },
+        {
+            "Oznaka / Symbol": "cl / cl",
+            "Metrička jedinica mere za zapreminu tečnosti": "centilitar",
+            "Метричка јединица мере за запремину течности": "центилитар",
+            "Metric units of capacity": "centiliter"
+        },
+        {
+            "Oznaka / Symbol": "dcl / dl",
+            "Metrička jedinica mere za zapreminu tečnosti": "decilitar",
+            "Метричка јединица мере за запремину течности": "децилитар",
+            "Metric units of capacity": "deciliter"
+        },
+        {
+            "Oznaka / Symbol": "l / l",
+            "Metrička jedinica mere za zapreminu tečnosti": "litar",
+            "Метричка јединица мере за запремину течности": "литар",
+            "Metric units of capacity": "liter"
+        },
+        {
+            "Oznaka / Symbol": "dkl /dal",
+            "Metrička jedinica mere za zapreminu tečnosti": "dekalitar",
+            "Метричка јединица мере за запремину течности": "декалитар",
+            "Metric units of capacity": "decaliter"
+        },
+        {
+            "Oznaka / Symbol": "hl / hl",
+            "Metrička jedinica mere za zapreminu tečnosti": "hektolitar",
+            "Метричка јединица мере за запремину течности": "хектолитар",
+            "Metric units of capacity": "hectoliter"
+        },
+        {
+            "Oznaka / Symbol": "kl / kl",
+            "Metrička jedinica mere za zapreminu tečnosti": "kilolitar",
+            "Метричка јединица мере за запремину течности": "килолитар",
+            "Metric units of capacity": "kiloliter"
+        }
+      ]
+    },
+    {
+      "metricki_zapremina": [
+        {
+            "Oznaka / Symbol": "mm",
+            "Metrička jedinica mere za zapreminu": "milimetar kubni",
+            "Метричка јединица мере за запремину": "милиметар кубни",
+            "Metric units of capacity": "millimeter cubed"
+        },
+        {
+            "Oznaka / Symbol": "cm",
+            "Metrička jedinica mere za zapreminu": "centimetar / santimetar kubni",
+            "Метричка јединица мере за запремину": "центиметар / сантиметар кубни",
+            "Metric units of capacity": "centimeter cubed"
+        },
+        {
+            "Oznaka / Symbol": "dm",
+            "Metrička jedinica mere za zapreminu": "decimeter kubni",
+            "Метричка јединица мере за запремину": "дециметер кубни",
+            "Metric units of capacity": "decimeter cubed"
+        },
+        {
+            "Oznaka / Symbol": "m",
+            "Metrička jedinica mere za zapreminu": "metar kubni",
+            "Метричка јединица мере за запремину": "метар кубни",
+            "Metric units of capacity": "meter cubed"
+        },
+        {
+            "Oznaka / Symbol": "dam",
+            "Metrička jedinica mere za zapreminu": "dekametar kubni",
+            "Метричка јединица мере за запремину": "декаметар кубни",
+            "Metric units of capacity": "decameter cubed"
+        },
+        {
+            "Oznaka / Symbol": "hm",
+            "Metrička jedinica mere za zapreminu": "hektometar kubni",
+            "Метричка јединица мере за запремину": "хектометар кубни",
+            "Metric units of capacity": "hectometer cubed"
+        },
+        {
+            "Oznaka / Symbol": "km",
+            "Metrička jedinica mere za zapreminu": "kilometar kubni",
+            "Метричка јединица мере за запремину": "километар кубни",
+            "Metric units of capacity": "kilometer cubed"
+        }
+      ]
+    },
+    {
+      "metricki_povrsina": [
+          {
+              "Ознака / Symbol": "mm",
+              "Oznaka / Symbol": "mm",
+              "Метричка јединица мере за површину": "милиметар квадратни",
+              "Metrička jedinica mere za površinu": "milimetar kvadratni",
+              "Metric units of area": "millimeter squared"
+          },
+          {
+              "Ознака / Symbol": "cm",
+              "Метричка јединица мере за површину": "центиметар / сантиметар квадратни",
+              "Metrička jedinica mere za površinu": "centimetar / santimetar kvadratni",
+              "Metric units of area": "centimeter squared"
+          },
+          {
+              "Ознака / Symbol": "dm",
+              "Метричка јединица мере за површину": "дециметер квадратни",
+              "Metrička jedinica mere za površinu": "decimetar kvadratni",
+              "Metric units of area": "decimeter squared"
+          },
+          {
+              "Ознака / Symbol": "m",
+              "Метричка јединица мере за површину": "метар квадратни",
+              "Metrička jedinica mere za površinu": "metar kvadratni",
+              "Metric units of area": "meter squared"
+          },
+          {
+              "Ознака / Symbol": "dam",
+              "Метричка јединица мере за површину": "декаметар квадратни",
+              "Metrička jedinica mere za površinu": "dekametar kvadratni",
+              "Metric units of area": "decameter squared"
+          },
+          {
+              "Ознака / Symbol": "hm",
+              "Metrička jedinica mere za površinu": "hektametar kvadratni",
+              "Метричка јединица мере за површину": "хектометар квадратни, хектар",
+              "Metric units of area": "hectometer squared"
+          },
+          {
+              "Ознака / Symbol": "km",
+              "Metrička jedinica mere za površinu": "milimetar kvadratni",
+              "Метричка јединица мере за површину": "milimetar kvadratni",
+              "Metric units of area": "kilometer squared"
+          }
+      ]
+    },
+    {
+      "metricki_masa": [
+        {
+            "Oznaka / Symbol": "mg",
+            "Metrička jedinica mere za masu": "miligram",
+            "Метричка јединица мере за масу": "милиграм",
+            "Metric units of mass": "milligrams"
+        },
+        {
+            "Oznaka / Symbol": "cg",
+            "Metrička jedinica mere za masu": "centigram",
+            "Метричка јединица мере за масу": "центиграм",
+            "Metric units of mass": "centigram"
+        },
+        {
+            "Oznaka / Symbol": "dg",
+            "Metrička jedinica mere za masu": "decigram",
+            "Метричка јединица мере за масу": "дециграм",
+            "Metric units of mass": "decigram"
+        },
+        {
+            "Oznaka / Symbol": "g",
+            "Metrička jedinica mere za masu": "gram",
+            "Метричка јединица мере за масу": "грам",
+            "Metric units of mass": "gram"
+        },
+        {
+            "Oznaka / Symbol": "dag",
+            "Metrička jedinica mere za masu": "dekagram",
+            "Метричка јединица мере за масу": "декаграм",
+            "Metric units of mass": "decagram"
+        },
+        {
+            "Oznaka / Symbol": "hg",
+            "Metrička jedinica mere za masu": "hektogram",
+            "Метричка јединица мере за масу": "хектограм",
+            "Metric units of mass": "hectogram"
+        },
+        {
+            "Oznaka / Symbol": "kg",
+            "Metrička jedinica mere za masu": "kilogram",
+            "Метричка јединица мере за масу": "килограм",
+            "Metric units of mass": "kilogram"
+        },
+        {
+            "Oznaka / Symbol": "t",
+            "Metrička jedinica mere za masu": "tona",
+            "Метричка јединица мере за масу": "тона",
+            "Metric units of mass": "tonne*"
+        }
+      ]
+    },
+    {
+      "metricki_duzina": [
+          {
+              "Ознака / Symbol": "mm",
+              "Oznaka / Symbol": "mm",
+              "Метричка јединица мере за дужину": "милиметар",
+              "Metrička jedinica mere za dužinu": "milimetar",
+              "Metric units of length": "millimeter"
+          },
+          {
+              "Ознака / Symbol": "dm",
+              "Oznaka / Symbol": "dm",
+              "Metrička jedinica mere za dužinu": "centimetar / santimetar",
+              "Метричка јединица мере за дужину": "центиметар / сантиметар",
+              "Metric units of length": "centimeter"
+          },
+          {
+              "Ознака / Symbol": "dm",
+              "Oznaka / Symbol": "dm",
+              "Metrička jedinica mere za dužinu": "decimetar",
+              "Метричка јединица мере за дужину": "дециметер",
+              "Metric units of length": "decimeter"
+          },
+          {
+              "Ознака / Symbol": "m",
+              "Oznaka / Symbol": "m",
+              "Метричка јединица мере за дужину": "метар",
+              "Metrička jedinica mere za dužinu": "metar",
+              "Metric units of length": "meter"
+          },
+          {
+              "Ознака / Symbol": "dam",
+              "Oznaka / Symbol": "dam",
+              "Метричка јединица мере за дужину": "декаметар",
+              "Metrička jedinica mere za dužinu": "dekametar",
+              "Metric units of length": "decameter"
+          },
+          {
+              "Ознака / Symbol": "hm",
+              "Oznaka / Symbol": "hm",
+              "Метричка јединица мере за дужину": "хектометар",
+              "Metrička jedinica mere za dužinu": "hektometar",
+              "Metric units of length": "hectometer"
+          },
+          {
+              "Ознака / Symbol": "km",
+              "Oznaka / Symbol": "km",
+              "Метричка јединица мере за дужину": "километар",
+              "Metrička jedinica mere za dužinu": "kilometar",
+              "Metric units of length": "kilometer"
+          }
+      ]
+    }
+  ]
+}

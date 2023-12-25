@@ -1,0 +1,88 @@
+{
+  "trigonometric": [
+      {
+          "Српски": "sin, синус",
+          "Srpski": "sin, sinus",
+          "English": "sin, sine"
+      },
+      {
+          "Српски": "cos, косинус",
+          "Srpski": "cos, kosinus",
+          "English": "cos, cosine"
+      },
+      {
+          "Српски": "tg, тангенс",
+          "Srpski": "tg, tangens",
+          "English": "tan, tangent"
+      },
+      {
+          "Српски": "ctg, котангенс",
+          "Srpski": "ctg, kotangens",
+          "English": "cot, cotangent"
+      },
+      {
+          "Српски": "sec, секанс",
+          "Srpski": "sec, sekans",
+          "English": "sec, secant"
+      },
+      {
+          "Српски": "csc, косеканс",
+          "Srpski": "csc, kosekans",
+          "English": "csc, cosecant"
+      }
+  ],
+  "inverse_trigonometric": [
+      {
+          "инверзне тригонометријске функције": "arcsin, аркус синус",
+          "inverzne trigonometrijske funkcije": "arcsin, arkus sinus",
+          "inverse trigonometric functions / inverse trig functions": "arcsin, sin-1, arc sine, inverse sine"
+      },
+      {
+          "инверзне тригонометријске функције": "acrcos, аркус косинус",
+          "inverzne trigonometrijske funkcije": "acrcos, arkus kosinus",
+          "inverse trigonometric functions / inverse trig functions": "arccos, cos-1, arc cosine, inverse cosine"
+      },
+      {
+          "инверзне тригонометријске функције": "arctg, аркус тангенс",
+          "inverzne trigonometrijske funkcije": "arctg, arkus tangens",
+          "inverse trigonometric functions / inverse trig functions": "arctan, tan-1, arc tangent, inverse tangent"
+      },
+      {
+          "инверзне тригонометријске функције": "accctg, аркус котангенс",
+          "inverzne trigonometrijske funkcije": "accctg, arkus kotangens",
+          "inverse trigonometric functions / inverse trig functions": "arccot, cot-1, arc cotangent, inverse cotangent"
+      },
+      {
+          "инверзне тригонометријске функције": "arcsec, аркус секанс",
+          "inverzne trigonometrijske funkcije": "arcsec, arkus sekans",
+          "inverse trigonometric functions / inverse trig functions": "arcsec, sec-1, arc secant, inverse secant"
+      },
+      {
+          "инверзне тригонометријске функције": "acccsc, аркус косеканс",
+          "inverzne trigonometrijske funkcije": "acccsc, arkus kosekans",
+          "inverse trigonometric functions / inverse trig functions": "arccsc, csc-1, arc cosecant, inverse cosecant"
+      }
+  ],
+  "hyperbolic": [
+      {
+          "хиперболичке функције": "sinh, shx, синус хиперболички",
+          "hiperboličke funkcije": "sinh, shx, sinus hiperbolički ",
+          "hyperbolic functions": "sinh, hyperbolic sine"
+      },
+      {
+          "хиперболичке функције": "cosh, chx, косинус хиперболички",
+          "hiperboličke funkcije": "cosh, chx, kosinus hiperbolički ",
+          "hyperbolic functions": "cosh, hyperbolic cosine"
+      },
+      {
+          "хиперболичке функције": "tghx, thx, тангенс хиперболички",
+          "hiperboličke funkcije": "tghx, thx, tangens hiperbolički",
+          "hyperbolic functions": "tanh, hyperbolic tangent"
+      },
+      {
+          "хиперболичке функције": "ctghx, cthx, котангес хиперболички",
+          "hiperboličke funkcije": "ctghx, cthx, kotanges hiperbolički",
+          "hyperbolic functions": "coth, hyperbolic cotangent "
+      }
+  ]
+}

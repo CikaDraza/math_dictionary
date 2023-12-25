@@ -1,0 +1,268 @@
+{
+  "fractions": [
+      {
+          "fraction": "2",
+          "Српски": "једна половина",
+          "Srpski": "jedna polovina",
+          "English": "one half"
+      },
+      {
+          "fraction": "3",
+          "Српски": "једна трећина",
+          "Srpski": "jedna trećina",
+          "English": "one third"
+      },
+      {
+          "fraction": "4",
+          "Српски": "једна четвртина",
+          "Srpski": "jedna četvrtina",
+          "English": "one quarter (British), one fourth (USA)"
+      },
+      {
+          "fraction": "5",
+          "Српски": "једна петина",
+          "Srpski": "jedna petina ",
+          "English": "one fifth"
+      },
+      {
+          "fraction": "6",
+          "Српски": "једна шестина",
+          "Srpski": "jedna šestina ",
+          "English": "one sixth"
+      },
+      {
+          "fraction": "7",
+          "Српски": "једна седмина",
+          "Srpski": "jedna sedmina ",
+          "English": "one seventh"
+      },
+      {
+          "fraction": "8",
+          "Српски": "једна осмина",
+          "Srpski": "jedna osmina ",
+          "English": "one eighth"
+      },
+      {
+          "fraction": "9",
+          "Српски": "једна деветина",
+          "Srpski": "jedna devetina ",
+          "English": "one ninth"
+      },
+      {
+          "fraction": "10",
+          "Српски": "једна десетина",
+          "Srpski": "jedna desetina ",
+          "English": "one tenth"
+      },
+      {
+          "fraction": "11",
+          "Српски": "једна једанаестина",
+          "Srpski": "jedna jedanaestina ",
+          "English": "one eleventh"
+      },
+      {
+          "fraction": "12",
+          "Српски": "једна дванаестина",
+          "Srpski": "jedna dvanaestina ",
+          "English": "one twelfth"
+      },
+      {
+          "fraction": "13",
+          "Српски": "једна тринаестина",
+          "Srpski": "jedna trinaestina ",
+          "English": "one thirteenth"
+      },
+      {
+          "fraction": "14",
+          "Српски": "једна четрнаестина",
+          "Srpski": "jedna četrnaestina ",
+          "English": "one fourteenth"
+      },
+      {
+          "fraction": "15",
+          "Српски": "једна петнаестина",
+          "Srpski": "jedna petnaestina ",
+          "English": "one fifteenth"
+      },
+      {
+          "fraction": "16",
+          "Српски": "једна шестнаестина",
+          "Srpski": "jedna šestnaestina ",
+          "English": "one sixteenth"
+      },
+      {
+          "fraction": "17",
+          "Српски": "једна седамнаестина",
+          "Srpski": "jedna sedamnaestina ",
+          "English": "one seventeenth"
+      },
+      {
+          "fraction": "18",
+          "Српски": "једна осамнаестина",
+          "Srpski": "jedna osamnaestina ",
+          "English": "one eighteenth"
+      },
+      {
+          "fraction": "19",
+          "Српски": "једна деветнаестина",
+          "Srpski": "jedna devetnaestina",
+          "English": "one nineteenth "
+      },
+      {
+          "fraction": "20",
+          "Српски": "једна двадесетина",
+          "Srpski": "jedna dvadesetina ",
+          "English": "one twentieth "
+      },
+      {
+          "fraction": "21",
+          "Српски": "једна двадесет једнина",
+          "Srpski": "jedna dvadeset jednina ",
+          "English": "one twenty-first "
+      },
+      {
+          "fraction": "22",
+          "Српски": "једна двадесет двојина",
+          "Srpski": "jedna dvadeset dvojina",
+          "English": "one twenty-second "
+      },
+      {
+          "fraction": "23",
+          "Српски": "једна двадесет тројина",
+          "Srpski": "jedna dvadeset trojina ",
+          "English": "one twenty-third "
+      },
+      {
+          "fraction": "24",
+          "Српски": "једна двадесет четвртина",
+          "Srpski": "jedna dvadeset četvrtina ",
+          "English": "one twenty-fourth "
+      },
+      {
+          "fraction": "25",
+          "Српски": "једна двадесет петина",
+          "Srpski": "jedna dvadeset petina ",
+          "English": "one twenty-fifth "
+      },
+      {
+          "fraction": "26",
+          "Српски": "једна двадесет шестина",
+          "Srpski": "jedna dvadeset šestina",
+          "English": "one twenty-sixth "
+      },
+      {
+          "fraction": "27",
+          "Српски": "једна двадесет седмина",
+          "Srpski": "jedna dvadeset sedmina ",
+          "English": "one twenty-seventh "
+      },
+      {
+          "fraction": "28",
+          "Српски": "једна двадесет осмина",
+          "Srpski": "jedna dvadeset osmina ",
+          "English": "one twenty-eight "
+      },
+      {
+          "fraction": "29",
+          "Српски": "једна двадесет деветина",
+          "Srpski": "jedna dvadeset devetina ",
+          "English": "one twenty-nineth "
+      },
+      {
+          "fraction": "30",
+          "Српски": "једна тридесетина",
+          "Srpski": "jedna tridesetina ",
+          "English": "one thirtieth  "
+      },
+      {
+          "fraction": "40",
+          "Српски": "једна четрдесетина",
+          "Srpski": "jedna četrdesetina ",
+          "English": "one fortieth "
+      },
+      {
+          "fraction": "50",
+          "Српски": "једна педесетина",
+          "Srpski": "jedna pedesetina ",
+          "English": "one fiftieth"
+      },
+      {
+          "fraction": "60",
+          "Српски": "једна шесдесетина",
+          "Srpski": "jedna šesdesetina ",
+          "English": "one sixtieth"
+      },
+      {
+          "fraction": "70",
+          "Српски": "једна седамдесетина",
+          "Srpski": "jedna sedamdesetina ",
+          "English": "one seventieth"
+      },
+      {
+          "fraction": "80",
+          "Српски": "једна осамдесетина",
+          "Srpski": "jedna osamdesetina",
+          "English": "one eightieth"
+      },
+      {
+          "fraction": "90",
+          "Српски": "једна двадесетина",
+          "Srpski": "jedna dvadesetina ",
+          "English": "one ninetieth"
+      },
+      {
+          "fraction": "100",
+          "Српски": "једна стотина",
+          "Srpski": "jedna stotina ",
+          "English": "one hundredth"
+      },
+      {
+          "fraction": "1000",
+          "Српски": "једна хиљадитина",
+          "Srpski": "jedna hiljaditina ",
+          "English": "one thousandth"
+      }
+    ],
+    "example" : [
+      {
+          "Српски": "две трећине",
+          "number": "",
+          "counter": "2",
+          "denominator": "3",
+          "Srpski": "dve trećine",
+          "English": "two thirds"
+      },
+      {
+          "Српски": "три четвртине",
+          "number": "",
+          "counter": "3",
+          "denominator": "4",
+          "Srpski": "tri četvrtine",
+          "English": "three quarters (British), three fourths (USA)"
+      },
+      {
+          "Српски": "једно цело и три осмине",
+          "number": "1",
+          "counter": "3",
+          "denominator": "8",
+          "Srpski": "jedno celo i tri osmine",
+          "English": "one and three eighths"
+      },
+      {
+          "Српски": "два цела и четири седмине",
+          "number": "2",
+          "counter": "4",
+          "denominator": "7",
+          "Srpski": "dva cela i četiri sedmine",
+          "English": "two and four sevenths"
+      },
+      {
+          "Српски": "тринаест целих и петнаест двадесет једнина ",
+          "number": "13",
+          "counter": "15",
+          "denominator": "21",
+          "Srpski": "trinaest celih i petnaest dvadeset jednina",
+          "English": "thirteen and fifteen twenty-firsts"
+      }
+    ]
+}

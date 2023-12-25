@@ -1,0 +1,104 @@
+{
+  "polygons": [
+      {
+          "Српски": "Називи многоуглова",
+          "Srpski": "Nazivi mnogouglova ",
+          "English": "Names of polygons"
+      },
+      {
+          "Српски": "троугао",
+          "Srpski": "trougao",
+          "English": "triangle "
+      },
+      {
+          "Српски": "четвороугао",
+          "Srpski": "četvorougao ",
+          "English": "quadrilateral, quad  "
+      },
+      {
+          "Српски": "петоугао ",
+          "Srpski": "petougao ",
+          "English": "pentagon  "
+      },
+      {
+          "Српски": "шестоугао ",
+          "Srpski": "šestougao ",
+          "English": "hexagon  "
+      },
+      {
+          "Српски": "седмоугао ",
+          "Srpski": "sedmougao ",
+          "English": "heptagon  "
+      },
+      {
+          "Српски": "осмоугао ",
+          "Srpski": "osmougao ",
+          "English": "octagon  "
+      },
+      {
+          "Српски": "деветоугао ",
+          "Srpski": "devetougao ",
+          "English": "nonagon  "
+      },
+      {
+          "Српски": "десетоугао ",
+          "Srpski": "desetougao ",
+          "English": "decagon  "
+      },
+      {
+          "Српски": "једанаестоугао",
+          "Srpski": "jedanaestougao",
+          "English": "hendecagon"
+      },
+      {
+          "Српски": "дванаестоугао",
+          "Srpski": "dvanaestougao",
+          "English": "dodecagon  "
+      },
+      {
+          "Српски": "тринаестоугао ",
+          "Srpski": "trinaestougao ",
+          "English": "tridecagon  "
+      },
+      {
+          "Српски": "четрнаестоугао ",
+          "Srpski": "četrnaestougao ",
+          "English": "tetradecagon  "
+      },
+      {
+          "Српски": "петнаестоугао ",
+          "Srpski": "petnaestougao ",
+          "English": "pentadecagon  "
+      },
+      {
+          "Српски": "шеснаестоугао",
+          "Srpski": "šesnaestougao ",
+          "English": "hexadecagon  "
+      },
+      {
+          "Српски": "седамнеастоугао ",
+          "Srpski": "sedamneastougao ",
+          "English": "heptadecagon  "
+      },
+      {
+          "Српски": "осамнаестоугао ",
+          "Srpski": "osamnaestougao ",
+          "English": "octadecagon  "
+      },
+      {
+          "Српски": "деветнаестоугао ",
+          "Srpski": "devetnaestougao ",
+          "English": "enneadecagon  "
+      },
+      {
+          "Српски": "двадесетоугао ",
+          "Srpski": "dvadesetougao ",
+          "English": "icosagon "
+      },
+      {
+          "Српски": "n-тоугао",
+          "Srpski": "n-tougao",
+          "English": "n-gon"
+      }
+  ]
+}

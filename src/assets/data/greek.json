@@ -1,0 +1,196 @@
+{
+  "greek": [
+      {
+          "id": "1",
+          "Symbols": "A\\alpha",
+          "Симбол": "A\\alpha",
+          "Српски": "Алфа",
+          " English": "",
+          "Symbol": "",
+          "Srpski": "Alfa",
+          "English": "Alpha"
+      },
+      {
+          "id": "2",
+          "Symbols": "B\\beta",
+          "Српски": "Бета",
+          "Srpski": "Beta",
+          "English": "Beta"
+      },
+      {
+          "id": "3",
+          "Symbols": "\\Gamma\\gamma",
+         
+          "Српски": "Гама",
+          "Srpski": "Gama",
+          "English": "Gamma"
+      },
+      {
+          "id": "4",
+          "Symbols": "\\Delta\\delta",
+         
+          "Српски": "Делта",
+          "Srpski": "Delta",
+          "English": "Delta"
+      },
+      {
+          "id": "5",
+          "Symbols": "E\\epsilon",
+         
+          "Српски": "Епсилон",
+          "Srpski": "Epsilon",
+          "English": "Epsilon"
+      },
+      {
+          "id": "6",
+          "Symbols": "Z\\zeta",
+         
+          "Српски": "Зета",
+          "Srpski": "Zeta",
+          "English": "Zeta"
+      },
+      {
+          "id": "7",
+          "Symbols": "H\\eta",
+         
+          "Српски": "Ета",
+          "Srpski": "Eta",
+          "English": "Eta"
+      },
+      {
+          "id": "8",
+          "Symbols": "\\Theta\\theta",
+         
+          "Српски": "Тета",
+          "Srpski": "Teta",
+          "English": "Theta"
+      },
+      {
+          "id": "9",
+          "Symbols": "I\\iota",
+         
+          "Српски": "Иота",
+          "Srpski": "Iota",
+          "English": "Iota"
+      },
+      {
+          "id": "10",
+          "Symbols": "K\\kappa",
+         
+          "Српски": "Капа",
+          "Srpski": "Kapa",
+          "English": "Kappa"
+      },
+      {
+          "id": "11",
+          "Symbols": "\\Lambda\\lambda",
+         
+          "Српски": "Ламбда",
+          "Srpski": "Lambda",
+          "English": "Lambda"
+      },
+      {
+          "id": "12",
+          "Symbols": "M\\mu",
+         
+          "Српски": "Ми",
+          "Srpski": "Mi",
+          "English": "Mu"
+      },
+      {
+          "id": "13",
+          "Symbols": "N\\nu",
+         
+          "Српски": "Ни",
+          "Srpski": "Ni",
+          "English": "Nu"
+      },
+      {
+          "id": "14",
+          "Symbols": "\\Xi\\xi",
+         
+          "Српски": "Кси",
+          "Srpski": "Ksi",
+          "English": "Xi"
+      },
+      {
+          "id": "15",
+          "Symbols": "O\\omicron",
+         
+          "Српски": "Омикрон",
+          "Srpski": "Omikron",
+          "English": "Omicron"
+      },
+      {
+          "id": "16",
+          "Symbols": "\\Pi\\pi",
+         
+          "Српски": "Ри",
+          "Srpski": "Pi",
+          "English": "Pi"
+      },
+      {
+          "id": "17",
+          "Symbols": "R\\rho",
+         
+          "Српски": "Ро",
+          "Srpski": "Ro",
+          "English": "Rho"
+      },
+      {
+          "id": "18",
+          "Symbols": "\\Sigma\\sigma",
+         
+          "Српски": "Сигма",
+          "Srpski": "Sigma",
+          "English": "Sigma"
+      },
+      {
+          "id": "19",
+          "Symbols": "T\\tau",
+         
+          "Српски": "Тау",
+          "Srpski": "Tau",
+          "English": "Tau"
+      },
+      {
+          "id": "20",
+          "Symbols": "\\Upsilon\\upsilon",
+         
+          "Српски": "Ипсилон",
+          "Srpski": "Ipsilon",
+          "English": "Upsilon"
+      },
+      {
+          "id": "21",
+          "Symbols": "\\Phi\\phi",
+         
+          "Српски": "Фи",
+          "Srpski": "Fi",
+          "English": "Phi "
+      },
+      {
+          "id": "22",
+          "Symbols": "X\\chi",
+         
+          "Српски": "Хи",
+          "Srpski": "Hi",
+          "English": "Chi"
+      },
+      {
+          "id": "23",
+          "Symbols": "\\Psi\\psi",
+          "Српски": "Пси",
+          "Srpski": "Psi",
+          "English": "Psi"
+      },
+      {
+          "id": "24",
+         
+          "Symbols": "\\Omega\\omega",
+          "Српски": "Омега",
+          "Srpski": "Omega",
+          "English": "Omega"
+      }
+  ]
+}

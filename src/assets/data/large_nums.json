@@ -1,0 +1,88 @@
+{
+  "large_nums": [
+      {
+          "Српски": "Милион",
+          "Srpski": "Milion",
+          "English": "Million",
+          "short": "6",
+          "long": "6"
+      },
+      {
+          "Српски": "Милијарда",
+          "Srpski": "Milijarda",
+          "English": "Milliard",
+          "short": "Not used",
+          "long": "9"
+      },
+      {
+          "Српски": "Билион",
+          "Srpski": "Bilion",
+          "English": "Billion",
+          "short": "9",
+          "long": "12"
+      },
+      {
+          "Српски": "Билијарда",
+          "Srpski": "Bilijarda",
+          "English": "Billiard",
+          "short": "Not used",
+          "long": "15"
+      },
+      {
+          "Српски": "Трилион",
+          "Srpski": "Trilion",
+          "English": "Trillion",
+          "short": "12",
+          "long": "18"
+      },
+      {
+          "Српски": "Квадрилион",
+          "Srpski": "Kvadrilion",
+          "English": "Quadrillion",
+          "short": "15",
+          "long": "24"
+      },
+      {
+          "Српски": "Квинтилион",
+          "Srpski": "Kvintilion",
+          "English": "Quintillion",
+          "short": "18",
+          "long": "30"
+      },
+      {
+          "Српски": "Секстиолион",
+          "Srpski": "Sekstiolion",
+          "English": "Sextillion",
+          "short": "21",
+          "long": "36"
+      },
+      {
+          "Српски": "Септилион",
+          "Srpski": "Septilion",
+          "English": "Septillion",
+          "short": "24",
+          "long": "42"
+      },
+      {
+          "Српски": "Октилион",
+          "Srpski": "Oktilion",
+          "English": "Octillion",
+          "short": "27",
+          "long": "48"
+      },
+      {
+          "Српски": "Нонилион",
+          "Srpski": "Nonilion",
+          "English": "Nonillion",
+          "short": "30",
+          "long": "54"
+      },
+      {
+          "Српски": "Децилион",
+          "Srpski": "Decilion",
+          "English": "Decillion",
+          "short": "33",
+          "long": "60"
+      }
+  ]
+}

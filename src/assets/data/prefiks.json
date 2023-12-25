@@ -1,0 +1,151 @@
+{
+  "prefiks": [
+      {
+          "exponent": "24",
+          "symbol": "Y",
+          "Српски": "јота-",
+          "Srpski": "jota-",
+          "English": "yotta-"
+      },
+      {
+          "exponent": "21",
+          "symbol": "Z",
+          "Српски": "зета-",
+          "Srpski": "zeta-",
+          "English": "zetta-"
+      },
+      {
+          "exponent": "18",
+          "symbol": "E",
+          "Српски": "екса-",
+          "Srpski": "eksa-",
+          "English": "exa-"
+      },
+      {
+          "exponent": "15",
+          "symbol": "P",
+          "Српски": "пета-",
+          "Srpski": "peta-",
+          "English": "peta-"
+      },
+      {
+          "exponent": "12",
+          "symbol": "T",
+          "Српски": "тера-",
+          "Srpski": "tera-",
+          "English": "tera-"
+      },
+      {
+          "exponent": "9",
+          "symbol": "G",
+          "Српски": "гига-",
+          "Srpski": "giga-",
+          "English": "giga-"
+      },
+      {
+          "exponent": "6",
+          "symbol": "M",
+          "Српски": "мега-",
+          "Srpski": "mega-",
+          "English": "mega-"
+      },
+      {
+          "exponent": "3",
+          "symbol": "k",
+          "Српски": "кило-",
+          "Srpski": "kilo-",
+          "English": "kilo-"
+      },
+      {
+          "exponent": "2",
+          "symbol": "h",
+          "Српски": "хекто-",
+          "Srpski": "hekto-",
+          "English": "hecto-"
+      },
+      {
+          "exponent": "1",
+          "symbol": "da",
+          "Српски": "дека-",
+          "Srpski": "deka-",
+          "English": "deca-"
+      },
+      {
+          "exponent": "0",
+          "symbol": "",
+          "Српски": "",
+          "Srpski": "",
+          "English": ""
+      },
+      {
+          "exponent": "-1",
+          "symbol": "d",
+          "Српски": "деци-",
+          "Srpski": "deci-",
+          "English": "deci-"
+      },
+      {
+          "exponent": "-2",
+          "symbol": "c",
+          "Српски": "центи-",
+          "Srpski": "centi-",
+          "English": "centi-"
+      },
+      {
+          "exponent": "-3",
+          "symbol": "m",
+          "Српски": "мили-",
+          "Srpski": "mili-",
+          "English": "milli-"
+      },
+      {
+          "exponent": "-6",
+          "symbol": "μ",
+          "Српски": "микро-",
+          "Srpski": "mikro-",
+          "English": "micro-"
+      },
+      {
+          "exponent": "-9",
+          "symbol": "n",
+          "Српски": "нано-",
+          "Srpski": "nano-",
+          "English": "nano-"
+      },
+      {
+          "exponent": "-12",
+          "symbol": "p",
+          "Српски": "пико-",
+          "Srpski": "piko-",
+          "English": "pico-"
+      },
+      {
+          "exponent": "-15",
+          "symbol": "f",
+          "Српски": "фемто-",
+          "Srpski": "femto-",
+          "English": "femto-"
+      },
+      {
+          "exponent": "-18",
+          "symbol": "a",
+          "Српски": "ато-",
+          "Srpski": "ato-",
+          "English": "atto-"
+      },
+      {
+          "exponent": "-21",
+          "symbol": "z",
+          "Српски": "зепто-",
+          "Srpski": "zepto-",
+          "English": "zepto-"
+      },
+      {
+          "exponent": "-24",
+          "symbol": "y",
+          "Српски": "јокто-",
+          "Srpski": "jokto-",
+          "English": "yocto-"
+      }
+  ]
+}

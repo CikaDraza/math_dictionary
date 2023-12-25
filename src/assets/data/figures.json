@@ -1,0 +1,993 @@
+{
+  "figures": [
+        {
+          "Dvodimenzionalne figure": "oštrougli trougao",
+          "Two - dimensional figures": "acute triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "pravougli trougao",
+            "Two - dimensional figures": "right triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "tupougli trougao",
+            "Two - dimensional figures": "obtuse triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "raznostrani trougao",
+            "Two - dimensional figures": "scalene triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "jednakokraki trougao",
+            "Two - dimensional figures": "isosceles triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "jednakostranični trougao",
+            "Two - dimensional figures": "equilateral triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "kosougli trougao",
+            "Two - dimensional figures": "oblique triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "jednakougaoni trougao",
+            "Two - dimensional figures": "equiangular triangle"
+        },
+        {
+            "Dvodimenzionalne figure": "kvadrat",
+            "Two - dimensional figures": "square"
+        },
+        {
+            "Dvodimenzionalne figure": "pravougaonik",
+            "Two - dimensional figures": "rectangle"
+        },
+        {
+            "Dvodimenzionalne figure": "tangentni četvorougao",
+            "Two - dimensional figures": "tangential quadrilateral"
+        },
+        {
+            "Dvodimenzionalne figure": "tetivni četvorougao, upisani četvorougao ",
+            "Two - dimensional figures": "inscribed quadrilateral"
+        },
+        {
+            "Dvodimenzionalne figure": "trapez, trapezoid",
+            "Two - dimensional figures": "trapezoid, trapezium"
+        },
+        {
+            "Dvodimenzionalne figure": "jednakokraki trapez",
+            "Two - dimensional figures": "isosceles trapezium, isosceles trapezoid, isotrap"
+        },
+        {
+            "Dvodimenzionalne figure": "pravougli trapez",
+            "Two - dimensional figures": "right trapezoid"
+        },
+        {
+            "Dvodimenzionalne figure": "romb, romboid",
+            "Two - dimensional figures": "rhombus, rhomboid"
+        },
+        {
+            "Dvodimenzionalne figure": "paralelogram",
+            "Two - dimensional figures": "parallelogram"
+        },
+        {
+            "Dvodimenzionalne figure": "deltoid",
+            "Two - dimensional figures": "kite"
+        },
+        {
+            "Dvodimenzionalne figure": "mnogougao, poligon",
+            "Two - dimensional figures": "polygon"
+        },
+        {
+            "Dvodimenzionalne figure": "tetivni poligon, upisani poligon, tetivni mnogougao, upisani mnogougao",
+            "Two - dimensional figures": "inscribed polygon "
+        },
+        {
+            "Dvodimenzionalne figure": "zvezdoliki polygon, zvezdoliki mnogougao ",
+            "Two - dimensional figures": " star polygon",
+            "undefined": "                   "
+        },
+        {
+            "Dvodimenzionalne figure": "pentagram",
+            "Two - dimensional figures": "pentagram"
+        },
+        {
+            "Dvodimenzionalne figure": "krug, kružnica",
+            "Two - dimensional figures": "circle"
+        },
+        {
+            "Dvodimenzionalne figure": "kružni odsečak,kružni segment",
+            "Two - dimensional figures": "segment of a circle"
+        },
+        {
+            "Dvodimenzionalne figure": "kružni isečak, kružni sektor",
+            "Two - dimensional figures": "sector of a circle"
+        },
+        {
+            "Dvodimenzionalne figure": "prsten",
+            "Two - dimensional figures": "ring"
+        },
+        {
+            "Dvodimenzionalne figure": "kružni prsten",
+            "Two - dimensional figures": "annulus, circular ring"
+        },
+        {
+            "Dvodimenzionalne figure": "elipsa",
+            "Two - dimensional figures": "ellipse"
+        },
+        {
+            "Dvodimenzionalne figure": "parabola",
+            "Two - dimensional figures": "parabola"
+        },
+        {
+            "Dvodimenzionalne figure": "hiperbola",
+            "Two - dimensional figures": "hyperbola"
+        },
+        {
+            "Dvodimenzionalne figure": "jednakostranična hiperbola, pravougla hiperbola",
+            "Two - dimensional figures": "equilateral hyperbola, rectangular hyperbola"
+        },
+        {
+            "Dvodimenzionalne figure": "raznostrana hiperbola",
+            "Two - dimensional figures": "nonrectangular hyperbola, non-rectangular hyperbola"
+        },
+        {
+            "Dvodimenzionalne figure": "oval",
+            "Two - dimensional figures": "oval"
+        },
+        {
+            "Dvodimenzionalne figure": "kardioida",
+            "Two - dimensional figures": "cardioid"
+        },
+        {
+            "Dvodimenzionalne figure": "astroida",
+            "Two - dimensional figures": "asteroid"
+        },
+        {
+            "Dvodimenzionalne figure": "lemniskata",
+            "Two - dimensional figures": "lemniscate"
+        },
+        {
+            "Dvodimenzionalne figure": "cikloida",
+            "Two - dimensional figures": "cycloid"
+        },
+        {
+            "Dvodimenzionalne figure": "ruža",
+            "Two - dimensional figures": "rose"
+        },
+        {
+            "Dvodimenzionalne figure": "trolisna ruža ",
+            "Two - dimensional figures": "three leaved rose, trifolium"
+        },
+        {
+            "Dvodimenzionalne figure": "jednograni hiperboloid, jednokrilni hiperboloid",
+            "Two - dimensional figures": "one-sheet hyperboloid, hyperbolic hyperboloid, hyperboloid of one sheet"
+        },
+        {
+            "Dvodimenzionalne figure": "dvograni hyperboloid, dvokrilni hiperboloid",
+            "Two - dimensional figures": "two-sheet hyperboloid, elliptic hyperboloid, hyperboloid of two sheets"
+        },
+        {
+            "Dvodimenzionalne figure": "spirala ",
+            "Two - dimensional figures": "spiral"
+        },
+        {
+            "Dvodimenzionalne figure": "hiperbolička spirala",
+            "Two - dimensional figures": "hyperbolic spiral"
+        },
+        {
+            "Dvodimenzionalne figure": "logaritamska spirala",
+            "Two - dimensional figures": "logarithmic spiral"
+        },
+        {
+            "Dvodimenzionalne figure": "parabolička spirala",
+            "Two - dimensional figures": "parabolic spiral"
+        },
+        {
+            "Dvodimenzionalne figure": "Arhimedova spirala  ",
+            "Two - dimensional figures": "Archimedean spiral"
+        },
+        {
+            "Dvodimenzionalne figure": "trohoida ",
+            "Two - dimensional figures": "trochoid"
+        },
+        {
+            "Dvodimenzionalne figure": "epicikl",
+            "Two - dimensional figures": "epicycle"
+        },
+        {
+            "Dvodimenzionalne figure": "hipercikl",
+            "Two - dimensional figures": "hypercycle"
+        },
+        {
+            "Dvodimenzionalne figure": "kvadratrisa",
+            "Two - dimensional figures": "quadratrix"
+        },
+        {
+            "Dvodimenzionalne figure": "katenoida, lančanica",
+            "Two - dimensional figures": "catenary, catenary curve"
+        },
+        {
+            "Dvodimenzionalne figure": "cisoida, kisoida ",
+            "Two - dimensional figures": "cissoid"
+        },
+        {
+            "Dvodimenzionalne figure": "epicikloida",
+            "Two - dimensional figures": "epicycloid"
+        },
+        {
+            "Dvodimenzionalne figure": "hipocikloida",
+            "Two - dimensional figures": "hypocycloid"
+        }
+  ],
+  "figures_cir": [
+    {
+      "Дводимензионалне фигуре": "оштроугли троугао",
+      "Two - dimensional figures": "acute triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "правоугли троугао",
+        "Two - dimensional figures": "right triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "тупоугли троугао",
+        "Two - dimensional figures": "obtuse triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "разнострани троугао",
+        "Two - dimensional figures": "scalene triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "једнакокраки троугао",
+        "Two - dimensional figures": "isosceles triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "једнакостранични троугао",
+        "Two - dimensional figures": "equilateral triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "косоугли троугао",
+        "Two - dimensional figures": "oblique triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "једнакоугаони троугао",
+        "Two - dimensional figures": "equiangular triangle"
+    },
+    {
+        "Дводимензионалне фигуре": "квадрат",
+        "Two - dimensional figures": "square"
+    },
+    {
+        "Дводимензионалне фигуре": "правоугаоник",
+        "Two - dimensional figures": "rectangle"
+    },
+    {
+        "Дводимензионалне фигуре": "тангентни четвороугао",
+        "Two - dimensional figures": "tangential quadrilateral"
+    },
+    {
+        "Дводимензионалне фигуре": "тетивни четвороугао, уписани четвороугао",
+        "Two - dimensional figures": "inscribed quadrilateral"
+    },
+    {
+        "Дводимензионалне фигуре": "трапез, трапезоид",
+        "Two - dimensional figures": "trapezoid, trapezium"
+    },
+    {
+        "Дводимензионалне фигуре": "једнакокраки трапез",
+        "Two - dimensional figures": "isosceles trapezium, isosceles trapezoid, isotrap"
+    },
+    {
+        "Дводимензионалне фигуре": "правоугли трапез",
+        "Two - dimensional figures": "right trapezoid"
+    },
+    {
+        "Дводимензионалне фигуре": "ромб, ромбоид",
+        "Two - dimensional figures": "rhombus, rhomboid"
+    },
+    {
+        "Дводимензионалне фигуре": "паралелограм",
+        "Two - dimensional figures": "parallelogram"
+    },
+    {
+        "Дводимензионалне фигуре": "делтоид",
+        "Two - dimensional figures": "kite"
+    },
+    {
+        "Дводимензионалне фигуре": "многоугао, полигон",
+        "Two - dimensional figures": "polygon"
+    },
+    {
+        "Дводимензионалне фигуре": "тетивни полигон, уписани полигон, тетивни многоугао, уписани многоугао",
+        "Two - dimensional figures": "inscribed polygon "
+    },
+    {
+        "Дводимензионалне фигуре": "звездолики полyгон, звездолики многоугао",
+        "Two - dimensional figures": "star polygon"
+    },
+    {
+        "Дводимензионалне фигуре": "пентаграм",
+        "Two - dimensional figures": "pentagram"
+    },
+    {
+        "Дводимензионалне фигуре": "круг, кружница",
+        "Two - dimensional figures": "circle"
+    },
+    {
+        "Дводимензионалне фигуре": "кружни одсечак,кружни сегмент",
+        "Two - dimensional figures": "segment of a circle"
+    },
+    {
+        "Дводимензионалне фигуре": "кружни исечак, кружни сектор",
+        "Two - dimensional figures": "sector of a circle"
+    },
+    {
+        "Дводимензионалне фигуре": "прстен",
+        "Two - dimensional figures": "ring"
+    },
+    {
+        "Дводимензионалне фигуре": "кружни прстен",
+        "Two - dimensional figures": "annulus, circular ring"
+    },
+    {
+        "Дводимензионалне фигуре": "елипса",
+        "Two - dimensional figures": "ellipse"
+    },
+    {
+        "Дводимензионалне фигуре": "парабола",
+        "Two - dimensional figures": "parabola"
+    },
+    {
+        "Дводимензионалне фигуре": "хипербола",
+        "Two - dimensional figures": "hyperbola"
+    },
+    {
+        "Дводимензионалне фигуре": "једнакостранична хипербола, правоугла хипербола",
+        "Two - dimensional figures": "equilateral hyperbola, rectangular hyperbola"
+    },
+    {
+        "Дводимензионалне фигуре": "разнострана хипербола",
+        "Two - dimensional figures": "nonrectangular hyperbola, non-rectangular hyperbola"
+    },
+    {
+        "Дводимензионалне фигуре": "овал",
+        "Two - dimensional figures": "oval"
+    },
+    {
+        "Дводимензионалне фигуре": "кардиоида",
+        "Two - dimensional figures": "cardioid"
+    },
+    {
+        "Дводимензионалне фигуре": "астроида",
+        "Two - dimensional figures": "asteroid"
+    },
+    {
+        "Дводимензионалне фигуре": "лемниската",
+        "Two - dimensional figures": "lemniscate"
+    },
+    {
+        "Дводимензионалне фигуре": "циклоида",
+        "Two - dimensional figures": "cycloid"
+    },
+    {
+        "Дводимензионалне фигуре": "ружа",
+        "Two - dimensional figures": "rose"
+    },
+    {
+        "Дводимензионалне фигуре": "тролисна ружа",
+        "Two - dimensional figures": "three leaved rose, trifolium"
+    },
+    {
+        "Дводимензионалне фигуре": "једнограни хиперболоид, једнокрилни хиперболоид",
+        "Two - dimensional figures": "one-sheet hyperboloid, hyperbolic hyperboloid, hyperboloid of one sheet"
+    },
+    {
+        "Дводимензионалне фигуре": "двограни хyперболоид, двокрилни хиперболоид",
+        "Two - dimensional figures": "two-sheet hyperboloid, elliptic hyperboloid, hyperboloid of two sheets"
+    },
+    {
+        "Дводимензионалне фигуре": "спирала ",
+        "Two - dimensional figures": "spiral"
+    },
+    {
+        "Дводимензионалне фигуре": "хиперболичка спирала",
+        "Two - dimensional figures": "hyperbolic spiral"
+    },
+    {
+        "Дводимензионалне фигуре": "логаритамска спирала",
+        "Two - dimensional figures": "logarithmic spiral"
+    },
+    {
+        "Дводимензионалне фигуре": "параболична спирала",
+        "Two - dimensional figures": "parabolic spiral"
+    },
+    {
+        "Дводимензионалне фигуре": "Архимедова спирала  ",
+        "Two - dimensional figures": "Archimedean spiral"
+    },
+    {
+        "Дводимензионалне фигуре": "трохоида ",
+        "Two - dimensional figures": "trochoid"
+    },
+    {
+        "Дводимензионалне фигуре": "епицикл",
+        "Two - dimensional figures": "epicycle"
+    },
+    {
+        "Дводимензионалне фигуре": "хиперцикл",
+        "Two - dimensional figures": "hypercycle"
+    },
+    {
+        "Дводимензионалне фигуре": "квадратриса",
+        "Two - dimensional figures": "quadratrix"
+    },
+    {
+        "Дводимензионалне фигуре": "катеноида, ланчаница",
+        "Two - dimensional figures": "catenary, catenary curve"
+    },
+    {
+        "Дводимензионалне фигуре": "цисоида, кисоида",
+        "Two - dimensional figures": "cissoid"
+    },
+    {
+        "Дводимензионалне фигуре": "епициклоида",
+        "Two - dimensional figures": "epicycloid"
+    },
+    {
+        "Дводимензионалне фигуре": "хипоциклоида",
+        "Two - dimensional figures": "hypocycloid"
+    }
+  ],
+  "figures_cir_3d": [
+    {
+        "Тродимензионална тела": "коцка",
+        "Three - dimensional figures, solids": "cube"
+    },
+    {
+        "Тродимензионална тела": "призма",
+        "Three - dimensional figures, solids": "prism"
+    },
+    {
+        "Тродимензионална тела": "права призма",
+        "Three - dimensional figures, solids": "right prism"
+    },
+    {
+        "Тродимензионална тела": "коса призма",
+        "Three - dimensional figures, solids": "oblique prism"
+    },
+    {
+        "Тродимензионална тела": "правилна призма",
+        "Three - dimensional figures, solids": "regular prism"
+    },
+    {
+        "Тродимензионална тела": "пирамида",
+        "Three - dimensional figures, solids": "pyramid"
+    },
+    {
+        "Тродимензионална тела": "права пирамида",
+        "Three - dimensional figures, solids": "right pyramid"
+    },
+    {
+        "Тродимензионална тела": "коса пирамида",
+        "Three - dimensional figures, solids": "oblique pyramid"
+    },
+    {
+        "Тродимензионална тела": "правилна пирамида",
+        "Three - dimensional figures, solids": "regular pyramid"
+    },
+    {
+        "Тродимензионална тела": "крња пирамида, зарубљена пирамида",
+        "Three - dimensional figures, solids": "frustum of a pyramid, truncated pyramid"
+    },
+    {
+        "Тродимензионална тела": "паралелепипед, паралелопипед",
+        "Three - dimensional figures, solids": "parallelepiped, parallelepipedon"
+    },
+    {
+        "Тродимензионална тела": "правоугли паралелопипед, квадар",
+        "Three - dimensional figures, solids": "rectangular cuboid, rectangular prism, cuboid"
+    },
+    {
+        "Тродимензионална тела": "ромбоедар",
+        "Three - dimensional figures, solids": "rhombohedron"
+    },
+    {
+        "Тродимензионална тела": "цилиндар, ваљак",
+        "Three - dimensional figures, solids": "cylinder"
+    },
+    {
+        "Тродимензионална тела": "цилиндрична површ",
+        "Three - dimensional figures, solids": "cylindrical surface"
+    },
+    {
+        "Тродимензионална тела": "кружни цилиндар, кружни ваљак",
+        "Three - dimensional figures, solids": "circular cylinder"
+    },
+    {
+        "Тродимензионална тела": "прави кружни цилиндар, прави ваљак",
+        "Three - dimensional figures, solids": "right circular cylinder"
+    },
+    {
+        "Тродимензионална тела": "коси кружни цилиндар",
+        "Three - dimensional figures, solids": "oblique circular cylinder"
+    },
+    {
+        "Тродимензионална тела": "цилиндрични прстен",
+        "Three - dimensional figures, solids": "cylindrical annulus, cylindrical ring"
+    },
+    {
+        "Тродимензионална тела": "хиперболички цилиндар",
+        "Three - dimensional figures, solids": "hyperbolic cylinder"
+    },
+    {
+        "Тродимензионална тела": "конус",
+        "Three - dimensional figures, solids": "cone"
+    },
+    {
+        "Тродимензионална тела": "конусна површ",
+        "Three - dimensional figures, solids": "conic surface"
+    },
+    {
+        "Тродимензионална тела": "кружни конус",
+        "Three - dimensional figures, solids": "circular cone"
+    },
+    {
+        "Тродимензионална тела": "права купа, прави кружни конус",
+        "Three - dimensional figures, solids": "right circular cone"
+    },
+    {
+        "Тродимензионална тела": "коса купа, коси кружни конус",
+        "Three - dimensional figures, solids": "oblique cone, oblique circular cone"
+    },
+    {
+        "Тродимензионална тела": "зарубљена купа, зарубљени кружни конус",
+        "Three - dimensional figures, solids": "frustum of a circular, cone, truncated circular"
+    },
+    {
+        "Тродимензионална тела": "лопта, сфера",
+        "Three - dimensional figures, solids": "sphere"
+    },
+    {
+        "Тродимензионална тела": "хемисфера, полусфера",
+        "Three - dimensional figures, solids": "hemisphere"
+    },
+    {
+        "Тродимензионална тела": "лоптин исечак, лоптин сецтор",
+        "Three - dimensional figures, solids": "spherical sector"
+    },
+    {
+        "Тродимензионална тела": "калота                                        ",
+        "Three - dimensional figures, solids": "spherical cap"
+    },
+    {
+        "Тродимензионална тела": "лоптин одсечак, лоптин сегмент",
+        "Three - dimensional figures, solids": "spherical segment"
+    },
+    {
+        "Тродимензионална тела": "лоптин појас, лоптина зона",
+        "Three - dimensional figures, solids": "spherical zone, zone of a sphere"
+    },
+    {
+        "Тродимензионална тела": "сферни троугао",
+        "Three - dimensional figures, solids": "spherical triangle"
+    },
+    {
+        "Тродимензионална тела": "сфероид",
+        "Three - dimensional figures, solids": "spheroid"
+    },
+    {
+        "Тродимензионална тела": "строфоида",
+        "Three - dimensional figures, solids": "strophoid"
+    },
+    {
+        "Тродимензионална тела": "парасфера",
+        "Three - dimensional figures, solids": "parasphere"
+    },
+    {
+        "Тродимензионална тела": "псеудосфера",
+        "Three - dimensional figures, solids": "pseudosphere"
+    },
+    {
+        "Тродимензионална тела": "хиперсфера",
+        "Three - dimensional figures, solids": "hypersphere"
+    },
+    {
+        "Тродимензионална тела": "параболоид",
+        "Three - dimensional figures, solids": "paraboloid"
+    },
+    {
+        "Тродимензионална тела": "еллипсоид",
+        "Three - dimensional figures, solids": "ellipsoid"
+    },
+    {
+        "Тродимензионална тела": "елиптички цилиндар",
+        "Three - dimensional figures, solids": "elliptic cylinder"
+    },
+    {
+        "Тродимензионална тела": "елиптички параболоид",
+        "Three - dimensional figures, solids": "elliptic paraboloid"
+    },
+    {
+        "Тродимензионална тела": "хиперболоид",
+        "Three - dimensional figures, solids": "hyperboloid"
+    },
+    {
+        "Тродимензионална тела": "једнограни хиперболоид, једнокрилни хиперболоид",
+        "Three - dimensional figures, solids": "hyperboloid of one sheet"
+    },
+    {
+        "Тродимензионална тела": "двограни хиперболоид, двокрилни хиперболоид",
+        "Three - dimensional figures, solids": "hyperboloid of two sheets"
+    },
+    {
+        "Тродимензионална тела": "хиперболички параболоид",
+        "Three - dimensional figures, solids": "hyperbolic paraboloid"
+    },
+    {
+        "Тродимензионална тела": "хеликс, завојна линија, завојница",
+        "Three - dimensional figures, solids": "helix (pl. helice or helixes)"
+    },
+    {
+        "Тродимензионална тела": "лева завојница",
+        "Three - dimensional figures, solids": "left-handed helix"
+    },
+    {
+        "Тродимензионална тела": "десна завојница",
+        "Three - dimensional figures, solids": "right-handed helix"
+    },
+    {
+        "Тродимензионална тела": "локсодрома ",
+        "Three - dimensional figures, solids": "loxodrome, rhumb line"
+    },
+    {
+        "Тродимензионална тела": "соленоид",
+        "Three - dimensional figures, solids": "solenoid"
+    },
+    {
+        "Тродимензионална тела": "хеликоид",
+        "Three - dimensional figures, solids": "helicoid"
+    },
+    {
+        "Тродимензионална тела": "катеноида",
+        "Three - dimensional figures, solids": "catenoid"
+    },
+    {
+        "Тродимензионална тела": "коноида",
+        "Three - dimensional figures, solids": "conoid"
+    },
+    {
+        "Тродимензионална тела": "торус",
+        "Three - dimensional figures, solids": "torus"
+    },
+    {
+        "Тродимензионална тела": "полиедар",
+        "Three - dimensional figures, solids": "polyhedron "
+    },
+    {
+        "Тродимензионална тела": "правилни полиедар",
+        "Three - dimensional figures, solids": "regular polyhedron"
+    },
+    {
+        "Тродимензионална тела": "додекаедар",
+        "Three - dimensional figures, solids": "dodecahedron"
+    },
+    {
+        "Тродимензионална тела": "октаедар",
+        "Three - dimensional figures, solids": "octahedron"
+    },
+    {
+        "Тродимензионална тела": "тетраедар ",
+        "Three - dimensional figures, solids": "tetrahedron"
+    },
+    {
+        "Тродимензионална тела": "диедар",
+        "Three - dimensional figures, solids": "dihedron"
+    },
+    {
+        "Тродимензионална тела": "хексаедар",
+        "Three - dimensional figures, solids": "hexahedron"
+    },
+    {
+        "Тродимензионална тела": "икосаедар",
+        "Three - dimensional figures, solids": "icosahedron"
+    },
+    {
+        "Тродимензионална тела": "пентаедар",
+        "Three - dimensional figures, solids": "pentahedron"
+    },
+    {
+        "Тродимензионална тела": "триедар",
+        "Three - dimensional figures, solids": "trihedral, trihedron"
+    },
+    {
+        "Тродимензионална тела": "звездолики полиедар",
+        "Three - dimensional figures, solids": "star polyhedron"
+    },
+    {
+        "Тродимензионална тела": "спинор",
+        "Three - dimensional figures, solids": "spinor"
+    }
+  ],
+  "figures_3d": [
+    {
+        "Trodimenzionalna tela": "kocka",
+        "Three - dimensional figures, solids": "cube"
+    },
+    {
+        "Trodimenzionalna tela": "prizma",
+        "Three - dimensional figures, solids": "prism"
+    },
+    {
+        "Trodimenzionalna tela": "prava prizma",
+        "Three - dimensional figures, solids": "right prism"
+    },
+    {
+        "Trodimenzionalna tela": "kosa prizma",
+        "Three - dimensional figures, solids": "oblique prism"
+    },
+    {
+        "Trodimenzionalna tela": "pravilna prizma",
+        "Three - dimensional figures, solids": "regular prism"
+    },
+    {
+        "Trodimenzionalna tela": "piramida",
+        "Three - dimensional figures, solids": "pyramid"
+    },
+    {
+        "Trodimenzionalna tela": "prava piramida ",
+        "Three - dimensional figures, solids": "right pyramid"
+    },
+    {
+        "Trodimenzionalna tela": "kosa piramida",
+        "Three - dimensional figures, solids": "oblique pyramid"
+    },
+    {
+        "Trodimenzionalna tela": "pravilna piramida",
+        "Three - dimensional figures, solids": "regular pyramid"
+    },
+    {
+        "Trodimenzionalna tela": "krnja piramida, zarubljena piramida",
+        "Three - dimensional figures, solids": "frustum of a pyramid, truncated pyramid"
+    },
+    {
+        "Trodimenzionalna tela": "paralelepiped, paralelopiped",
+        "Three - dimensional figures, solids": "parallelepiped, parallelepipedon"
+    },
+    {
+        "Trodimenzionalna tela": "pravougli paralelopiped, kvadar ",
+        "Three - dimensional figures, solids": "rectangular cuboid, rectangular prism, cuboid"
+    },
+    {
+        "Trodimenzionalna tela": "romboedar",
+        "Three - dimensional figures, solids": "rhombohedron"
+    },
+    {
+        "Trodimenzionalna tela": "cilindar, valjak",
+        "Three - dimensional figures, solids": "cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "cilindrična površ",
+        "Three - dimensional figures, solids": "cylindrical surface"
+    },
+    {
+        "Trodimenzionalna tela": "kružni cilindar, kružni valjak",
+        "Three - dimensional figures, solids": "circular cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "pravi kružni cilindar, pravi valjak ",
+        "Three - dimensional figures, solids": "right circular cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "kosi kružni cilindar",
+        "Three - dimensional figures, solids": "oblique circular cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "cilindrični prsten",
+        "Three - dimensional figures, solids": "cylindrical annulus, cylindrical ring"
+    },
+    {
+        "Trodimenzionalna tela": "hiperbolički cilindar",
+        "Three - dimensional figures, solids": "hyperbolic cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "konus",
+        "Three - dimensional figures, solids": "cone"
+    },
+    {
+        "Trodimenzionalna tela": "konusna površ",
+        "Three - dimensional figures, solids": "conic surface"
+    },
+    {
+        "Trodimenzionalna tela": "kružni konus",
+        "Three - dimensional figures, solids": "circular cone"
+    },
+    {
+        "Trodimenzionalna tela": "prava kupa, pravi kružni konus ",
+        "Three - dimensional figures, solids": "right circular cone"
+    },
+    {
+        "Trodimenzionalna tela": "kosa kupa, kosi kružni konus",
+        "Three - dimensional figures, solids": "oblique cone, oblique circular cone"
+    },
+    {
+        "Trodimenzionalna tela": "zarubljena kupa, zarubljeni kružni konus",
+        "Three - dimensional figures, solids": "frustum of a circular, cone, truncated circular"
+    },
+    {
+        "Trodimenzionalna tela": "lopta, sfera",
+        "Three - dimensional figures, solids": "sphere"
+    },
+    {
+        "Trodimenzionalna tela": "hemisfera, polusfera",
+        "Three - dimensional figures, solids": "hemisphere"
+    },
+    {
+        "Trodimenzionalna tela": "loptin isečak, loptin sector",
+        "Three - dimensional figures, solids": "spherical sector"
+    },
+    {
+        "Trodimenzionalna tela": "kalota                                        ",
+        "Three - dimensional figures, solids": "spherical cap"
+    },
+    {
+        "Trodimenzionalna tela": "loptin odsečak, loptin segment",
+        "Three - dimensional figures, solids": "spherical segment"
+    },
+    {
+        "Trodimenzionalna tela": "loptin pojas, loptina zona",
+        "Three - dimensional figures, solids": "spherical zone, zone of a sphere"
+    },
+    {
+        "Trodimenzionalna tela": "sferni trougao",
+        "Three - dimensional figures, solids": "spherical triangle"
+    },
+    {
+        "Trodimenzionalna tela": "sferoid",
+        "Three - dimensional figures, solids": "spheroid"
+    },
+    {
+        "Trodimenzionalna tela": "strofoida",
+        "Three - dimensional figures, solids": "strophoid"
+    },
+    {
+        "Trodimenzionalna tela": "parasfera",
+        "Three - dimensional figures, solids": "parasphere"
+    },
+    {
+        "Trodimenzionalna tela": "pseudosfera",
+        "Three - dimensional figures, solids": "pseudosphere"
+    },
+    {
+        "Trodimenzionalna tela": "hipersfera",
+        "Three - dimensional figures, solids": "hypersphere"
+    },
+    {
+        "Trodimenzionalna tela": "paraboloid",
+        "Three - dimensional figures, solids": "paraboloid"
+    },
+    {
+        "Trodimenzionalna tela": "ellipsoid",
+        "Three - dimensional figures, solids": "ellipsoid"
+    },
+    {
+        "Trodimenzionalna tela": "eliptički cilindar",
+        "Three - dimensional figures, solids": "elliptic cylinder"
+    },
+    {
+        "Trodimenzionalna tela": "eliptički paraboloid",
+        "Three - dimensional figures, solids": "elliptic paraboloid"
+    },
+    {
+        "Trodimenzionalna tela": "hiperboloid",
+        "Three - dimensional figures, solids": "hyperboloid"
+    },
+    {
+        "Trodimenzionalna tela": "jednograni hiperboloid, jednokrilni hiperboloid",
+        "Three - dimensional figures, solids": "hyperboloid of one sheet"
+    },
+    {
+        "Trodimenzionalna tela": "dvograni hiperboloid, dvokrilni hiperboloid",
+        "Three - dimensional figures, solids": "hyperboloid of two sheets"
+    },
+    {
+        "Trodimenzionalna tela": "hiperbolički paraboloid ",
+        "Three - dimensional figures, solids": "hyperbolic paraboloid"
+    },
+    {
+        "Trodimenzionalna tela": "heliks, zavojna linija, zavojnica",
+        "Three - dimensional figures, solids": "helix (pl. helice or helixes)"
+    },
+    {
+        "Trodimenzionalna tela": "leva zavojnica",
+        "Three - dimensional figures, solids": "left-handed helix"
+    },
+    {
+        "Trodimenzionalna tela": "desna zavojnica",
+        "Three - dimensional figures, solids": "right-handed helix"
+    },
+    {
+        "Trodimenzionalna tela": "loksodroma ",
+        "Three - dimensional figures, solids": "loxodrome, rhumb line"
+    },
+    {
+        "Trodimenzionalna tela": "solenoid",
+        "Three - dimensional figures, solids": "solenoid"
+    },
+    {
+        "Trodimenzionalna tela": "helikoid",
+        "Three - dimensional figures, solids": "helicoid"
+    },
+    {
+        "Trodimenzionalna tela": "katenoida",
+        "Three - dimensional figures, solids": "catenoid"
+    },
+    {
+        "Trodimenzionalna tela": "konoida",
+        "Three - dimensional figures, solids": "conoid"
+    },
+    {
+        "Trodimenzionalna tela": "torus",
+        "Three - dimensional figures, solids": "torus"
+    },
+    {
+        "Trodimenzionalna tela": "poliedar",
+        "Three - dimensional figures, solids": "polyhedron "
+    },
+    {
+        "Trodimenzionalna tela": "pravilni poliedar",
+        "Three - dimensional figures, solids": "regular polyhedron"
+    },
+    {
+        "Trodimenzionalna tela": "dodekaedar",
+        "Three - dimensional figures, solids": "dodecahedron"
+    },
+    {
+        "Trodimenzionalna tela": "oktaedar",
+        "Three - dimensional figures, solids": "octahedron"
+    },
+    {
+        "Trodimenzionalna tela": "tetraedar ",
+        "Three - dimensional figures, solids": "tetrahedron"
+    },
+    {
+        "Trodimenzionalna tela": "diedar ",
+        "Three - dimensional figures, solids": "dihedron"
+    },
+    {
+        "Trodimenzionalna tela": "heksaedar",
+        "Three - dimensional figures, solids": "hexahedron"
+    },
+    {
+        "Trodimenzionalna tela": "ikosaedar",
+        "Three - dimensional figures, solids": "icosahedron"
+    },
+    {
+        "Trodimenzionalna tela": "pentaedar",
+        "Three - dimensional figures, solids": "pentahedron"
+    },
+    {
+        "Trodimenzionalna tela": "triedar",
+        "Three - dimensional figures, solids": "trihedral, trihedron"
+    },
+    {
+        "Trodimenzionalna tela": "zvezdoliki poliedar ",
+        "Three - dimensional figures, solids": "star polyhedron"
+    },
+    {
+        "Trodimenzionalna tela": "spinor ",
+        "Three - dimensional figures, solids": "spinor"
+    }
+  ],
+  "example": [
+    {
+      "id": 1,
+      "Srpski": "geometrijska figura, geometrijski lik",
+      "Српски": "геометријска фигура, геометријски лик",
+      "English": "figure, geometric figure, plane figure"
+    },
+    {
+      "id": 2,
+      "Srpski": "geometrijsko telo",
+      "Српски": "геометријско тело",
+      "English": "solid, geometric solid, solid figure"
+    }
+  ]
+}

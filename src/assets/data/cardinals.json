@@ -1,0 +1,604 @@
+{
+  "cardinal": [
+      {
+          "id": "1",
+          "numbers": "0",
+          "Kardinalni brojevi | Arapski brojevi": "nula",
+          "Кардинални бројеви | Арапски бројеви": "нула",
+          "Cardinal numbers | Arabic numerals": "zero",
+          "Roman numerals": "",
+          "Rimski brojevi | Roman numerals": ""
+      },
+      {
+          "id": "2",
+          "numbers": "1",
+          "Kardinalni brojevi | Arapski brojevi": "jedan",
+          "Кардинални бројеви | Арапски бројеви": "један",
+          "Cardinal numbers | Arabic numerals": "one",
+          "Roman numerals": "I",
+          "Rimski brojevi | Roman numerals": "I"
+      },
+      {
+          "id": "3",
+          "numbers": "2",
+          "Kardinalni brojevi | Arapski brojevi": "dva",
+          "Кардинални бројеви | Арапски бројеви": "два",
+          "Cardinal numbers | Arabic numerals": "two",
+          "Roman numerals": "II",
+          "Rimski brojevi | Roman numerals": "II"
+      },
+      {
+          "id": "4",
+          "numbers": "3",
+          "Kardinalni brojevi | Arapski brojevi": "tri",
+          "Кардинални бројеви | Арапски бројеви": "три",
+          "Cardinal numbers | Arabic numerals": "three",
+          "Roman numerals": "III",
+          "Rimski brojevi | Roman numerals": "III"
+      },
+      {
+          "id": "5",
+          "numbers": "4",
+          "Kardinalni brojevi | Arapski brojevi": "četiri",
+          "Кардинални бројеви | Арапски бројеви": "четири",
+          "Cardinal numbers | Arabic numerals": "four",
+          "Roman numerals": "IV",
+          "Rimski brojevi | Roman numerals": "IV"
+      },
+      {
+          "id": "6",
+          "numbers": "5",
+          "Kardinalni brojevi | Arapski brojevi": "pet",
+          "Кардинални бројеви | Арапски бројеви": "пет",
+          "Cardinal numbers | Arabic numerals": "five",
+          "Roman numerals": "V",
+          "Rimski brojevi | Roman numerals": "V"
+      },
+      {
+          "id": "7",
+          "numbers": "6",
+          "Kardinalni brojevi | Arapski brojevi": "šest",
+          "Кардинални бројеви | Арапски бројеви": "шест",
+          "Cardinal numbers | Arabic numerals": "six",
+          "Roman numerals": "VI",
+          "Rimski brojevi | Roman numerals": "VI"
+      },
+      {
+          "id": "8",
+          "numbers": "7",
+          "Kardinalni brojevi | Arapski brojevi": "sedam",
+          "Кардинални бројеви | Арапски бројеви": "седам",
+          "Cardinal numbers | Arabic numerals": "seven",
+          "Roman numerals": "VII",
+          "Rimski brojevi | Roman numerals": "VII"
+      },
+      {
+          "id": "9",
+          "numbers": "8",
+          "Kardinalni brojevi | Arapski brojevi": "osam",
+          "Кардинални бројеви | Арапски бројеви": "осам",
+          "Cardinal numbers | Arabic numerals": "eight",
+          "Roman numerals": "VIII",
+          "Rimski brojevi | Roman numerals": "VIII"
+      },
+      {
+          "id": "10",
+          "numbers": "9",
+          "Kardinalni brojevi | Arapski brojevi": "devet",
+          "Кардинални бројеви | Арапски бројеви": "девет",
+          "Cardinal numbers | Arabic numerals": "nine",
+          "Roman numerals": "IX",
+          "Rimski brojevi | Roman numerals": "IX"
+      },
+      {
+          "id": "11",
+          "numbers": "10",
+          "Kardinalni brojevi | Arapski brojevi": "deset",
+          "Кардинални бројеви | Арапски бројеви": "десет",
+          "Cardinal numbers | Arabic numerals": "ten",
+          "Roman numerals": "X",
+          "Rimski brojevi | Roman numerals": "X"
+      },
+      {
+          "id": "12",
+          "numbers": "11",
+          "Kardinalni brojevi | Arapski brojevi": "jedanaest",
+          "Кардинални бројеви | Арапски бројеви": "једанаест",
+          "Cardinal numbers | Arabic numerals": "eleven",
+          "Roman numerals": "XI",
+          "Rimski brojevi | Roman numerals": "XI"
+      },
+      {
+          "id": "13",
+          "numbers": "12",
+          "Kardinalni brojevi | Arapski brojevi": "dvanaest",
+          "Кардинални бројеви | Арапски бројеви": "дванаест",
+          "Cardinal numbers | Arabic numerals": "twelve",
+          "Roman numerals": "XII",
+          "Rimski brojevi | Roman numerals": "XII"
+      },
+      {
+          "id": "14",
+          "numbers": "13",
+          "Kardinalni brojevi | Arapski brojevi": "trinaest",
+          "Кардинални бројеви | Арапски бројеви": "тринаест",
+          "Cardinal numbers | Arabic numerals": "thirteen",
+          "Roman numerals": "XIII",
+          "Rimski brojevi | Roman numerals": "XIII"
+      },
+      {
+          "id": "15",
+          "numbers": "14",
+          "Kardinalni brojevi | Arapski brojevi": "četrnaest",
+          "Кардинални бројеви | Арапски бројеви": "четрнаест",
+          "Cardinal numbers | Arabic numerals": "fourteen",
+          "Roman numerals": "XIV",
+          "Rimski brojevi | Roman numerals": "XIV"
+      },
+      {
+          "id": "16",
+          "numbers": "15",
+          "Kardinalni brojevi | Arapski brojevi": "petnaest",
+          "Кардинални бројеви | Арапски бројеви": "петнаест",
+          "Cardinal numbers | Arabic numerals": "fifteen",
+          "Roman numerals": "XV",
+          "Rimski brojevi | Roman numerals": "XV"
+      },
+      {
+          "id": "17",
+          "numbers": "16",
+          "Kardinalni brojevi | Arapski brojevi": "šesnaest",
+          "Кардинални бројеви | Арапски бројеви": "шеснаест",
+          "Cardinal numbers | Arabic numerals": "sixteen",
+          "Roman numerals": "XVI",
+          "Rimski brojevi | Roman numerals": "XVI"
+      },
+      {
+          "id": "18",
+          "numbers": "17",
+          "Kardinalni brojevi | Arapski brojevi": "sedamnaest",
+          "Кардинални бројеви | Арапски бројеви": "седамнаест",
+          "Cardinal numbers | Arabic numerals": "seventeen",
+          "Roman numerals": "XVII",
+          "Rimski brojevi | Roman numerals": "XVII"
+      },
+      {
+          "id": "19",
+          "numbers": "18",
+          "Kardinalni brojevi | Arapski brojevi": "osamnaest",
+          "Кардинални бројеви | Арапски бројеви": "осамнаест",
+          "Cardinal numbers | Arabic numerals": "eighteen",
+          "Roman numerals": "XVIII",
+          "Rimski brojevi | Roman numerals": "XVIII"
+      },
+      {
+          "id": "20",
+          "numbers": "19",
+          "Kardinalni brojevi | Arapski brojevi": "devetnaest",
+          "Кардинални бројеви | Арапски бројеви": "деветнаест",
+          "Cardinal numbers | Arabic numerals": "nineteen",
+          "Roman numerals": "XIX",
+          "Rimski brojevi | Roman numerals": "XIX"
+      },
+      {
+          "id": "21",
+          "numbers": "20",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset",
+          "Кардинални бројеви | Арапски бројеви": "двадесет",
+          "Cardinal numbers | Arabic numerals": "twenty",
+          "Roman numerals": "XX",
+          "Rimski brojevi | Roman numerals": "XX"
+      },
+      {
+          "id": "22",
+          "numbers": "21",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset jedan",
+          "Кардинални бројеви | Арапски бројеви": "двадесет један",
+          "Cardinal numbers | Arabic numerals": "twenty-one",
+          "Roman numerals": "XXI",
+          "Rimski brojevi | Roman numerals": "XXI"
+      },
+      {
+          "id": "23",
+          "numbers": "22",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset dva",
+          "Кардинални бројеви | Арапски бројеви": "двадесет два",
+          "Cardinal numbers | Arabic numerals": "twenty-two",
+          "Roman numerals": "XXII",
+          "Rimski brojevi | Roman numerals": "XXII"
+      },
+      {
+          "id": "24",
+          "numbers": "23",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset tri",
+          "Кардинални бројеви | Арапски бројеви": "двадесет три",
+          "Cardinal numbers | Arabic numerals": "twenty-three",
+          "Roman numerals": "XXIII",
+          "Rimski brojevi | Roman numerals": "XXIII"
+      },
+      {
+          "id": "25",
+          "numbers": "24",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset četiri",
+          "Кардинални бројеви | Арапски бројеви": "двадесет четири",
+          "Cardinal numbers | Arabic numerals": "twenty-four",
+          "Roman numerals": "XXIV",
+          "Rimski brojevi | Roman numerals": "XXIV"
+      },
+      {
+          "id": "26",
+          "numbers": "25",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset pet",
+          "Кардинални бројеви | Арапски бројеви": "двадесет пет",
+          "Cardinal numbers | Arabic numerals": "twenty-five",
+          "Roman numerals": "XXV",
+          "Rimski brojevi | Roman numerals": "XXV"
+      },
+      {
+          "id": "27",
+          "numbers": "26",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset šest",
+          "Кардинални бројеви | Арапски бројеви": "двадесет шест",
+          "Cardinal numbers | Arabic numerals": "twenty-six",
+          "Roman numerals": "XXVI",
+          "Rimski brojevi | Roman numerals": "XXVI"
+      },
+      {
+          "id": "28",
+          "numbers": "27",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset sedam",
+          "Кардинални бројеви | Арапски бројеви": "двадесет седам",
+          "Cardinal numbers | Arabic numerals": "twenty-seven",
+          "Roman numerals": "XXVII",
+          "Rimski brojevi | Roman numerals": "XXVII"
+      },
+      {
+          "id": "29",
+          "numbers": "28",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset osam",
+          "Кардинални бројеви | Арапски бројеви": "двадесет осам",
+          "Cardinal numbers | Arabic numerals": "twenty-eight",
+          "Roman numerals": "XXVIII",
+          "Rimski brojevi | Roman numerals": "XXVIII"
+      },
+      {
+          "id": "30",
+          "numbers": "29",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset devet",
+          "Кардинални бројеви | Арапски бројеви": "двадесет девет",
+          "Cardinal numbers | Arabic numerals": "twenty-nine",
+          "Roman numerals": "XXIX",
+          "Rimski brojevi | Roman numerals": "XXIX"
+      },
+      {
+          "id": "31",
+          "numbers": "30",
+          "Kardinalni brojevi | Arapski brojevi": "trideset",
+          "Кардинални бројеви | Арапски бројеви": "тридесет",
+          "Cardinal numbers | Arabic numerals": "thirty",
+          "Roman numerals": "XXX",
+          "Rimski brojevi | Roman numerals": "XXX"
+      },
+      {
+          "id": "32",
+          "numbers": "40",
+          "Kardinalni brojevi | Arapski brojevi": "četrdeset",
+          "Кардинални бројеви | Арапски бројеви": "четрдесет",
+          "Cardinal numbers | Arabic numerals": "forty",
+          "Roman numerals": "XL",
+          "Rimski brojevi | Roman numerals": "XL"
+      },
+      {
+          "id": "33",
+          "numbers": "50",
+          "Kardinalni brojevi | Arapski brojevi": "pedeset",
+          "Кардинални бројеви | Арапски бројеви": "педесет",
+          "Cardinal numbers | Arabic numerals": "fifty",
+          "Roman numerals": "L",
+          "Rimski brojevi | Roman numerals": "L"
+      },
+      {
+          "id": "34",
+          "numbers": "60",
+          "Kardinalni brojevi | Arapski brojevi": "šesdeset",
+          "Кардинални бројеви | Арапски бројеви": "шесдесет",
+          "Cardinal numbers | Arabic numerals": "sixty",
+          "Roman numerals": "LX",
+          "Rimski brojevi | Roman numerals": "LX"
+      },
+      {
+          "id": "35",
+          "numbers": "70",
+          "Kardinalni brojevi | Arapski brojevi": "sedamdeset",
+          "Кардинални бројеви | Арапски бројеви": "седамдесет",
+          "Cardinal numbers | Arabic numerals": "seventy",
+          "Roman numerals": "LXX",
+          "Rimski brojevi | Roman numerals": "LXX"
+      },
+      {
+          "id": "36",
+          "numbers": "80",
+          "Kardinalni brojevi | Arapski brojevi": "osamdeset",
+          "Кардинални бројеви | Арапски бројеви": "осамдесет",
+          "Cardinal numbers | Arabic numerals": "eighty",
+          "Roman numerals": "LXXX",
+          "Rimski brojevi | Roman numerals": "LXXX"
+      },
+      {
+          "id": "37",
+          "numbers": "90",
+          "Kardinalni brojevi | Arapski brojevi": "devedeset",
+          "Кардинални бројеви | Арапски бројеви": "деведесет",
+          "Cardinal numbers | Arabic numerals": "ninety",
+          "Roman numerals": "XC",
+          "Rimski brojevi | Roman numerals": "XC"
+      },
+      {
+          "id": "38",
+          "numbers": "100",
+          "Kardinalni brojevi | Arapski brojevi": "sto",
+          "Кардинални бројеви | Арапски бројеви": "сто",
+          "Cardinal numbers | Arabic numerals": "hundred",
+          "Roman numerals": "C",
+          "Rimski brojevi | Roman numerals": "C"
+      },
+      {
+          "id": "39",
+          "numbers": "200",
+          "Kardinalni brojevi | Arapski brojevi": "dvesta",
+          "Кардинални бројеви | Арапски бројеви": "двеста",
+          "Cardinal numbers | Arabic numerals": "two hundred",
+          "Roman numerals": "CC",
+          "Rimski brojevi | Roman numerals": "CC"
+      },
+      {
+          "id": "40",
+          "numbers": "300",
+          "Kardinalni brojevi | Arapski brojevi": "trista",
+          "Кардинални бројеви | Арапски бројеви": "триста",
+          "Cardinal numbers | Arabic numerals": "three hundred",
+          "Roman numerals": "CCC",
+          "Rimski brojevi | Roman numerals": "CCC"
+      },
+      {
+          "id": "41",
+          "numbers": "400",
+          "Kardinalni brojevi | Arapski brojevi": "četiristo",
+          "Кардинални бројеви | Арапски бројеви": "четиристо",
+          "Cardinal numbers | Arabic numerals": "four hundred",
+          "Roman numerals": "CD",
+          "Rimski brojevi | Roman numerals": "CD"
+      },
+      {
+          "id": "42",
+          "numbers": "500",
+          "Kardinalni brojevi | Arapski brojevi": "petsto",
+          "Кардинални бројеви | Арапски бројеви": "петсто",
+          "Cardinal numbers | Arabic numerals": "five hundred",
+          "Roman numerals": "D",
+          "Rimski brojevi | Roman numerals": "D"
+      },
+      {
+          "id": "43",
+          "numbers": "600",
+          "Kardinalni brojevi | Arapski brojevi": "šesto",
+          "Кардинални бројеви | Арапски бројеви": "шесто",
+          "Cardinal numbers | Arabic numerals": "six hundred",
+          "Roman numerals": "DC",
+          "Rimski brojevi | Roman numerals": "DC"
+      },
+      {
+          "id": "44",
+          "numbers": "700",
+          "Kardinalni brojevi | Arapski brojevi": "sedamsto",
+          "Кардинални бројеви | Арапски бројеви": "седамсто",
+          "Cardinal numbers | Arabic numerals": "seven hundred",
+          "Roman numerals": "DCC",
+          "Rimski brojevi | Roman numerals": "DCC"
+      },
+      {
+          "id": "45",
+          "numbers": "800",
+          "Kardinalni brojevi | Arapski brojevi": "osamsto",
+          "Кардинални бројеви | Арапски бројеви": "осамсто",
+          "Cardinal numbers | Arabic numerals": "eight hundred",
+          "Roman numerals": "DCCC",
+          "Rimski brojevi | Roman numerals": "DCCC"
+      },
+      {
+          "id": "46",
+          "numbers": "900",
+          "Kardinalni brojevi | Arapski brojevi": "devesto",
+          "Кардинални бројеви | Арапски бројеви": "девесто",
+          "Cardinal numbers | Arabic numerals": "nine hundred",
+          "Roman numerals": "CM",
+          "Rimski brojevi | Roman numerals": "CM"
+      },
+      {
+          "id": "47",
+          "numbers": "1000",
+          "Kardinalni brojevi | Arapski brojevi": "(jedna) hiljada ",
+          "Кардинални бројеви | Арапски бројеви": "(једна) хиљада",
+          "Cardinal numbers | Arabic numerals": "(one) thousand",
+          "Roman numerals": "M",
+          "Rimski brojevi | Roman numerals": "M"
+      },
+      {
+          "id": "48",
+          "numbers": "2000",
+          "Kardinalni brojevi | Arapski brojevi": "dve hiljade",
+          "Кардинални бројеви | Арапски бројеви": "две хиљаде",
+          "Cardinal numbers | Arabic numerals": "two thousand",
+          "Roman numerals": "MM",
+          "Rimski brojevi | Roman numerals": "MM"
+      },
+      {
+          "id": "49",
+          "numbers": "5000",
+          "Kardinalni brojevi | Arapski brojevi": "pet hiljada",
+          "Кардинални бројеви | Арапски бројеви": "пет хиљада",
+          "Cardinal numbers | Arabic numerals": "five thousand",
+          "Roman numerals": "V",
+          "Rimski brojevi | Roman numerals": "V"
+      },
+      {
+          "id": "50",
+          "numbers": "10000",
+          "Kardinalni brojevi | Arapski brojevi": "deset hiljada",
+          "Кардинални бројеви | Арапски бројеви": "десет хиљада",
+          "Cardinal numbers | Arabic numerals": "ten thousand",
+          "Roman numerals": "X",
+          "Rimski brojevi | Roman numerals": "X"
+      },
+      {
+          "id": "51",
+          "numbers": "20000",
+          "Kardinalni brojevi | Arapski brojevi": "dvadeset hiljada",
+          "Кардинални бројеви | Арапски бројеви": "двадесет хиљада",
+          "Cardinal numbers | Arabic numerals": "twenty thousand",
+          "Roman numerals": "XX",
+          "Rimski brojevi | Roman numerals": "XX"
+      },
+      {
+          "id": "52",
+          "numbers": "50000",
+          "Kardinalni brojevi | Arapski brojevi": "pedeset hiljada",
+          "Кардинални бројеви | Арапски бројеви": "педесет хиљада",
+          "Cardinal numbers | Arabic numerals": "fifty thousand",
+          "Roman numerals": "L",
+          "Rimski brojevi | Roman numerals": "L"
+      },
+      {
+          "id": "53",
+          "numbers": "100000",
+          "Kardinalni brojevi | Arapski brojevi": "sto hiljada",
+          "Кардинални бројеви | Арапски бројеви": "сто хиљада",
+          "Cardinal numbers | Arabic numerals": "(one) hundred thousand",
+          "Roman numerals": "C",
+          "Rimski brojevi | Roman numerals": "C"
+      },
+      {
+          "id": "54",
+          "numbers": "200000",
+          "Kardinalni brojevi | Arapski brojevi": "dvesto hiljada",
+          "Кардинални бројеви | Арапски бројеви": "двесто хиљада",
+          "Cardinal numbers | Arabic numerals": "two hundred thousand",
+          "Roman numerals": "CC",
+          "Rimski brojevi | Roman numerals": "CC"
+      },
+      {
+          "id": "55",
+          "numbers": "500000",
+          "Kardinalni brojevi | Arapski brojevi": "petsto hiljada",
+          "Кардинални бројеви | Арапски бројеви": "петсто хиљада",
+          "Cardinal numbers | Arabic numerals": "five hundred thousand",
+          "Roman numerals": "D",
+          "or Roman numerals": "|V|",
+          "Rimski brojevi | Roman numerals": "D or |V|"
+      },
+      {
+          "id": "56",
+          "numbers": "1000000",
+          "Kardinalni brojevi | Arapski brojevi": "(jedan) milion",
+          "Кардинални бројеви | Арапски бројеви": "(један) милион",
+          "Cardinal numbers | Arabic numerals": "one million",
+          "Roman numerals": "M",
+          "or Roman numerals": "|M|",
+          "Rimski brojevi | Roman numerals": "M or |M|"
+      },
+      {
+          "id": "57",
+          "numbers": "2000000",
+          "Kardinalni brojevi | Arapski brojevi": "dva miliona",
+          "Кардинални бројеви | Арапски бројеви": "два милиона",
+          "Cardinal numbers | Arabic numerals": "two million",
+          "Roman numerals": "MM",
+          "or Roman numerals": "|XX|",
+          "Rimski brojevi | Roman numerals": "MM or |XX|"
+      },
+      {
+          "id": "58",
+          "numbers": "5000000",
+          "Kardinalni brojevi | Arapski brojevi": "pet miliona",
+          "Кардинални бројеви | Арапски бројеви": "пет милиона",
+          "Cardinal numbers | Arabic numerals": "five million",
+          "Roman numerals": "V",
+          "or Roman numerals": "|L|",
+          "Rimski brojevi | Roman numerals": "V or |L|"
+      },
+      {
+          "id": "59",
+          "numbers": "10000000",
+          "Kardinalni brojevi | Arapski brojevi": "deset miliona",
+          "Кардинални бројеви | Арапски бројеви": "десет милиона",
+          "Cardinal numbers | Arabic numerals": "ten million",
+          "Roman numerals": "X",
+          "or Roman numerals": "|C|",
+          "Rimski brojevi | Roman numerals": "X or |C|"
+      }
+  ],
+  "example": [
+      {
+          "id": "1",
+          "symbol": "X",
+          "Српски": "једноцифрен број",
+          "Srpski": "jednocifren broj",
+          "English": "one-digit number"
+      },
+      {
+          "id": "2",
+          "symbol": "XY",
+          "Српски": "двоцифрен број",
+          "Srpski": "dvocifren broj",
+          "English": "two-digit number"
+      },
+      {
+          "id": "3",
+          "symbol": "XYZ",
+          "Српски": "троцифрен број",
+          "Srpski": "trocifren broj",
+          "English": "three-digit number"
+      },
+      {
+          "id": "4",
+          "symbol": "",
+          "Српски": "н-тоцифрен број",
+          "Srpski": "n-tocifren broj",
+          "English": "n-digit number"
+      }
+  ],
+  "example_two": [
+      {
+          "id": "1",
+          "бројеви | numbers": "3207",
+          "numbers": "3207",
+          "Српски": "три хиљаде двеста седам",
+          "Srpski": "tri hiljade dvesta sedam",
+          "English": "three thousand two hundred seven"
+      },
+      {
+          "id": "2",
+          "бројеви | numbers": "4571",
+          "numbers": "4571",
+          "Српски": "четири хиљаде петсто седамдесет један",
+          "Srpski": "četiri hiljade petsto sedamdeset jedan",
+          "English": "four thousand five hundred seventy-one"
+      },
+      {
+          "id": "3",
+          "бројеви | numbers": "18760",
+          "numbers": "18760",
+          "Српски": "осамнаест хиљада седамсто шесдесет",
+          "Srpski": "osamnaest hiljada sedamsto šesdeset",
+          "English": "eighteen thousand seven hundred sixty"
+      },
+      {
+          "id": "4",
+          "бројеви | numbers": "903478",
+          "numbers": "903478",
+          "Српски": "деветсто три хиљаде четиристо седамдесет осам",
+          "Srpski": "devetsto tri hiljade četiristo sedamdeset osam",
+          "English": "nine hundred three thousand four hundred seventy-eight"
+      }
+  ]
+}
